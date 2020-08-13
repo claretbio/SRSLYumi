@@ -1,0 +1,29 @@
+[build-system]
+requires = [
+    "setuptools >= 40.8.0",
+    "wheel >= 0.30.0",
+]
+build-backend = "setuptools.build_meta"
+
+[dev-dependencies]
+black = { version = "^19.10b0", python = "^3.6" }
+
+[tool.black]
+line-length = 88
+target_version = ['py37']
+
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+envlist = py27,py37
+
+[testenv]
+# install pytest in the virtualenv where commands will be executed
+deps = 
+    pytest
+    xmldiff
+    mock
+    pysam
+commands = 
+    pytest --doctest-modules
+"""

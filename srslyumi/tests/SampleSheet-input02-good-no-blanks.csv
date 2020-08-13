@@ -1,0 +1,30 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,JaneDoe,,,,,,,,
+Experiment Name,LabRun100_Micro,,,,,,,,
+Date,5/11/20,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,test run,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+[Reads],,,,,,,,,
+151,,,,,,,,,
+151,,,,,,,,,
+[Settings],,,,,,,,,
+ReverseComplement,0,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+SR2167,SR2167_hu,,,xgen_UMI-i7-1,ACGATCAGNNNNN,xgen_i5-1,ATATGCGC,,SR2167
+SR2168,SR2168_hu,,,xgen_UMI-i7-2,TCGAGAGTNNNNN,xgen_i5-2,TGGTACAG,,SR2168
+SR2169,SR2169_hu,,,xgen_UMI-i7-3,CTAGCTCANNNNN,xgen_i5-3,AACCGTTC,,SR2169
+SR2170,SR2170_hu,,,xgen_UMI-i7-4,ATCGTCTCNNNNN,xgen_i5-4,TAACCGGT,,SR2170
+SR2171,SR2171_hu,,,xgen_UMI-i7-5,TCGACAAGNNNNN,xgen_i5-5,GAACATCG,,SR2171
+SR2172,SR2172_hu,,,xgen_UMI-i7-6,CCTTGGAANNNNN,xgen_i5-6,CCTTGTAG,,SR2172
+SR2173,SR2173_hu,,,xgen_UMI-i7-7,ATCATGCGNNNNN,xgen_i5-7,TCAGGCTT,,SR2173
+SR2174,SR2174_hu,,,xgen_UMI-i7-8,TGTTCCGTNNNNN,xgen_i5-8,GTTCTCGT,,SR2174
+SR2175,SR2175_hu,,,xgen_UMI-i7-9,ATTAGCCGNNNNN,xgen_i5-9,AGAACGAG,,SR2175
+SR2176,SR2176_hu,,,xgen_UMI-i7-10,CGATCGATNNNNN,xgen_i5-10,TGCTTCCA,,SR2176
+SR2177,SR2177_hu,,,xgen_UMI-i7-11,GATCTTGCNNNNN,xgen_i5-11,CTTCGACT,,SR2177
+SR2178,SR2178_hu,,,xgen_UMI-i7-12,AGGATAGCNNNNN,xgen_i5-12,CACCTGTT,,SR2178
+SR2179,SR2179_hu,,,ML_UMI,GATGCCANNNNNN,LP-1,CCTGCGAN,,SR2179

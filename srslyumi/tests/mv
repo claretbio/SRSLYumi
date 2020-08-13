@@ -1,0 +1,3 @@
+#!/bin/bash
+# replace the subcalls from the runbcl2fastq.sh script when testing
+/bin/true

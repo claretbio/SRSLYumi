@@ -1,0 +1,8 @@
+<RunInfo Version="2">
+  <Run Id="200511_M00000_0000_000000000-XXXXX" Number="123">
+    <Flowcell>000000000-XXXXX</Flowcell>
+    <Instrument>M00000</Instrument>
+    <Date>200511</Date>
+    <Reads><Read IsIndexedRead="N" NumCycles="151" Number="1" /><Read IsIndexedRead="Y" NumCycles="8" Number="2" /><Read IsIndexedRead="N" NumCycles="5" Number="3" /><Read IsIndexedRead="Y" NumCycles="8" Number="4" /><Read IsIndexedRead="N" NumCycles="151" Number="5" /></Reads><FlowcellLayout LaneCount="1" SurfaceCount="2" SwathCount="1" TileCount="4" />
+  </Run>
+</RunInfo>

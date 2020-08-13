@@ -1,0 +1,15 @@
+#!/bin/bash
+/bin/true
+# touch srslyumi-test4/SR2167_hu_S1_R3_001.fastq.gz \
+#       srslyumi-test4/SR2168_hu_S2_R3_001.fastq.gz \
+#       srslyumi-test4/SR2169_hu_S3_R3_001.fastq.gz \
+#       srslyumi-test4/SR2170_hu_S4_R3_001.fastq.gz \
+#       srslyumi-test4/SR2171_hu_S5_R3_001.fastq.gz \
+#       srslyumi-test4/SR2172_hu_S6_R3_001.fastq.gz \
+#       srslyumi-test4/SR2173_hu_S7_R3_001.fastq.gz \
+#       srslyumi-test4/SR2174_hu_S8_R3_001.fastq.gz \
+#       srslyumi-test4/SR2175_hu_S9_R3_001.fastq.gz \
+#       srslyumi-test4/SR2176_hu_S10_R3_001.fastq.gz \
+#       srslyumi-test4/SR2177_hu_S11_R3_001.fastq.gz \
+#       srslyumi-test4/SR2178_hu_S12_R3_001.fastq.gz \
+#       srslyumi-test4/SR2179_hu_S13_R3_001.fastq.gz
