@@ -14,9 +14,11 @@ setuptools.setup(
     url="https://github.com/claretbio/SRSLYumi",
     packages=setuptools.find_packages(),
     classifiers=[
+        "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "Topic :: Scientific/Engineering :: Bio-Informatics"
     ],
     entry_points={
         "console_scripts": [
