@@ -56,11 +56,11 @@ def take_fragment(umi, fragment_index):
     >>> take_fragment("AGCT", 1)
     Traceback (most recent call last):
       ...
-    srslyumi.bamtag.FragmentIndexOutOfBounds: ('AGCT', 1)
+    ValueError: ('Fragment index out of bounds', 'AGCT', 1)
     """
     frags = umi.split("-")
     if fragment_index < 0 or fragment_index >= len(frags):
-        raise FragmentIndexOutOfBounds(umi, fragment_index)
+        raise ValueError("Fragment index out of bounds", umi, fragment_index)
     return frags[fragment_index]
 
 
