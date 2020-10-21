@@ -8,7 +8,7 @@ import sys
 import pysam
 
 
-UMI_REGULAR_EXPRESSION = "^[acgtnAGCTN_+]+$"
+UMI_REGULAR_EXPRESSION = "^[acgtnAGCTN_+-]+$"
 
 
 def looks_like_umi(umi):
@@ -36,16 +36,39 @@ def picard_friendly(umi):
     Converts a UMI string into a format that Picard Tools can understand
 
     >>> picard_friendly("ACGT+ACGT")
-    'ACGT_ACGT'
+    'ACGT-ACGT'
     >>> picard_friendly("ACGT_ACGT")
-    'ACGT_ACGT'
+    'ACGT-ACGT'
     >>> picard_friendly("TTTAA")
     'TTTAA'
     """
-    return re.sub("[^actgnACTGN]", "_", umi)
+    return re.sub("[^actgnACTGN]", "-", umi)
 
 
-def bamtag(inbam, out, sam_tag, keep_symbols, quiet):
+class FragmentIndexOutOfBounds(Exception):
+    pass
+
+
+def take_fragment(umi, fragment_index):
+    """
+    >>> take_fragment("AGCT-TCGA", 0)
+    'AGCT'
+    >>> take_fragment("AGCT-TCGA", 1)
+    'TCGA'
+    >>> take_fragment("AGCT_TCGA", 0)
+    'AGCT_TCGA'
+    >>> take_fragment("AGCT", 1)
+    Traceback (most recent call last):
+      ...
+    srslyumi.bamtag.FragmentIndexOutOfBounds: ('AGCT', 1)
+    """
+    frags = umi.split("-")
+    if fragment_index < 0 or fragment_index >= len(frags):
+        raise FragmentIndexOutOfBounds(umi, fragment_index)
+    return frags[fragment_index]
+
+
+def bamtag(inbam, out, sam_tag, keep_symbols, fragment_index, quiet):
     num_missing_umis = 0
     reads = 0
     for read in inbam.fetch(until_eof=True):
@@ -54,6 +77,8 @@ def bamtag(inbam, out, sam_tag, keep_symbols, quiet):
         if looks_like_umi(umi):
             if not keep_symbols:
                 umi = picard_friendly(umi)
+            if fragment_index is not None:
+                umi = take_fragment(umi, fragment_index)
             read.query_name = name
             read.set_tag(sam_tag, umi, "Z")
         else:
@@ -75,6 +100,11 @@ def main():
         help="do not replace special characters in UMI with '_' (needed for Picard)",
     )
     ap.add_argument(
+        "--take-fragment",
+        type=int,
+        help="split UMI on '-' character, use only this fragment (0-based)",
+    )
+    ap.add_argument(
         "-b", "--binary", action="store_true", help="write BAM instead of sam"
     )
     ap.add_argument("-q", "--quiet", action="store_true", help="don't report warnings")
@@ -92,7 +122,7 @@ def main():
     inbam = pysam.AlignmentFile(a.inputbam)
     out = pysam.AlignmentFile(a.o, mode=mode, template=inbam)
 
-    bamtag(inbam, out, a.sam_tag, a.keep_symbols, a.quiet)
+    bamtag(inbam, out, a.sam_tag, a.keep_symbols, a.take_fragment, a.quiet)
 
     out.close()
     inbam.close()

@@ -40,6 +40,24 @@ class TestBamTag(unittest.TestCase):
             with open(f("bamtag-out-02.sam")) as expected:
                 self.assertListEqual(out.readlines(), expected.readlines())
 
+    def test_take_fragment(self):
+        with tempfile.NamedTemporaryFile(mode="w+") as out:
+            argv = [
+                "bamtag",
+                "-o",
+                out.name,
+                "--take-fragment",
+                "1",
+                f("bamtag-in-03.sam"),
+            ]
+            with capture_cli(argv) as (stdout, stderr):
+                main()
+            self.assertEqual("", stdout.getvalue())
+            self.assertEqual("", stderr.getvalue())
+            out.seek(0)
+            with open(f("bamtag-out-03.sam")) as expected:
+                self.assertListEqual(out.readlines(), expected.readlines())
+
     def test_bam(self):
         with tempfile.NamedTemporaryFile(mode="w+") as out:
             argv = ["bamtag", "-b", "-o", out.name, f("bamtag-in-01.sam")]
