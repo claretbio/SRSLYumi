@@ -45,10 +45,6 @@ def picard_friendly(umi):
     return re.sub("[^actgnACTGN]", "-", umi)
 
 
-class FragmentIndexOutOfBounds(Exception):
-    pass
-
-
 def take_fragment(umi, fragment_index):
     """
     >>> take_fragment("AGCT-TCGA", 0)
