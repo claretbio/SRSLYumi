@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="srslyumi",
-    version="0.3",
+    version="0.4",
     author="Charles Vaske",
     author_email="charles.vaske@claretbio.com",
     description="process SRSLY UMIs",
