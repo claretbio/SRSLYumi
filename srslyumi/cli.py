@@ -208,14 +208,14 @@ def main():
     ap.add_argument(
         "--umi-bp",
         type=int,
-        default=10,
-        help="number of cycles in the index UMI (default:10)",
+        default=9,
+        help="number of cycles in the index UMI (default:9)",
     )
     ap.add_argument(
         "--index-bp",
         type=int,
-        default=7,
-        help="number of cycles in the index barcode (default:7)",
+        default=8,
+        help="number of cycles in the index barcode (default:8)",
     )
     ap.add_argument("outdir", help="output directory for FASTQ")
 
