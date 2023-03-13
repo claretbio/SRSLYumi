@@ -16,6 +16,7 @@ DEFAULT_RUN_INFO = "RunInfo.xml"
 DEFALUT_BCL_CMD_FN = "runbcl2fastq.sh"
 BCL2FASTQ_TEMPLATE = """#!/bin/sh
 bcl2fastq --input-dir {BCL_DIR} \\
+    {NO_LANE_SPLITTING} \\
     --runfolder-dir {OUT_DIR} \\
     --output-dir {OUT_DIR}
 """
@@ -136,7 +137,7 @@ def rewrite_sample_sheet(sample_sheet_fn, umi_bp, index_bp):
     return "\n".join([",".join(x) for x in c]) + "\n"
 
 
-def write_run_dir(indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir):
+def write_run_dir(indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir, no_lane_splitting):
     if not os.path.exists(outdir):
         os.makedirs(outdir)
 
@@ -159,7 +160,9 @@ def write_run_dir(indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir)
     with open(bclcmd_fn, mode="w") as cout:
         cout.write(
             BCL2FASTQ_TEMPLATE.format(
-                BCL_DIR=os.path.abspath(indir), OUT_DIR=os.path.abspath(outdir)
+                BCL_DIR=os.path.abspath(indir),
+                OUT_DIR=os.path.abspath(outdir),
+                NO_LANE_SPLITTING='--no-lane-splitting' if no_lane_splitting else ''
             )
         )
         for sample, num in get_run_samples(si_out_fn):
@@ -179,9 +182,9 @@ def get_run_samples(ss_fn):
     return [(c[i][name_idx], i - dstart - 1) for i in range(dstart + 2, dend)]
 
 
-def srslyumi(indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir):
+def srslyumi(indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir, no_lane_splitting):
     bclcmd_fn = write_run_dir(
-        indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir
+        indir, sample_sheet_fn, run_info_fn, umi_bp, index_bp, outdir, no_lane_splitting
     )
     subprocess.call(bclcmd_fn)
 
@@ -217,6 +220,11 @@ def main():
         default=8,
         help="number of cycles in the index barcode (default:8)",
     )
+    ap.add_argument(
+        "--no-lane-splitting",
+        action='store_true',
+        help="Do not split lanes",
+    )
     ap.add_argument("outdir", help="output directory for FASTQ")
 
     a = ap.parse_args()
@@ -228,4 +236,8 @@ def main():
     if a.run_info is None:
         a.run_info = os.path.join(a.rundir, DEFAULT_RUN_INFO)
 
-    srslyumi(a.input_dir, a.sample_sheet, a.run_info, a.umi_bp, a.index_bp, a.outdir)
+    srslyumi(a.input_dir, a.sample_sheet, a.run_info, a.umi_bp, a.index_bp, a.outdir, a.no_lane_splitting)
+
+
+if __name__ == '__main__':
+    main()
