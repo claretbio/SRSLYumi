@@ -26,6 +26,6 @@ setuptools.setup(
             "srslyumi-bamtag=srslyumi.bamtag:main",
         ]
     },
-    install_requires=['pysam>=0.15.3'],
+    install_requires=['pysam>=0.15.3', 'pip'],
     python_requires=">=2.7",
 )
