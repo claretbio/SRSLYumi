@@ -1,0 +1,284 @@
+11/21/2024,21:25:15.295,0,0,0,Copy thread starting: maximum requests = 10000000,0,0,0
+11/21/2024,21:25:16.296,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:25:16.297,0,0,0, *Copy5 file: ext = .xml, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml * ,0,0,0
+11/21/2024,21:25:16.299,0,0,0, *Copy5 file: ext = .xml, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml * ,0,0,0
+11/21/2024,21:25:16.300,0,0,0, *Copy5 file: ext = .xml, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\runParameters.xml * ,0,0,0
+11/21/2024,21:25:16.301,0,0,0, *Copy5 file: ext = .csv, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\SampleSheet.csv * ,0,0,0
+11/21/2024,21:25:17.302,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:25:17.303,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt * ,0,0,0
+11/21/2024,21:25:17.304,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt * ,0,0,0
+11/21/2024,21:25:17.306,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt * ,0,0,0
+11/21/2024,21:25:17.306,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt * ,0,0,0
+11/21/2024,21:35:01.625,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:35:01.626,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:35:01.628,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:35:01.629,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:35:01.630,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:35:06.633,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:35:06.633,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:35:06.634,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:35:06.636,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,21:35:06.637,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C77.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:37:34.704,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:37:34.705,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:37:34.706,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:37:34.707,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:37:34.708,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:37:39.712,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:37:39.712,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:37:39.713,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:37:39.715,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,21:37:39.716,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C78.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:40:07.790,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:40:07.791,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:40:07.793,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:40:07.794,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:40:07.795,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:40:11.799,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:40:11.800,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:40:11.801,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:40:11.802,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,21:40:11.803,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C79.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:42:39.873,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,21:42:39.874,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:42:39.875,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:42:40.876,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,21:42:40.877,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:42:40.878,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:42:43.880,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,21:42:43.881,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:42:43.882,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:42:44.882,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,21:42:44.885,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,21:42:44.885,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C80.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:45:11.955,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:45:11.956,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:45:11.958,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:45:11.959,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:45:11.960,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:45:16.963,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:45:16.964,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:45:16.965,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:45:16.967,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,21:45:16.967,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C81.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:47:45.050,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:47:45.052,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:47:45.052,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:47:45.053,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:47:45.054,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:47:49.057,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:47:49.058,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:47:49.059,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:47:49.062,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,21:47:49.063,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C82.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:50:17.153,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:50:17.154,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:50:17.156,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:50:17.157,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:50:17.158,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:50:21.161,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:50:21.162,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:50:21.163,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:50:21.164,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,21:50:21.165,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C83.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:52:50.240,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:52:50.243,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:52:50.244,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:52:50.244,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:52:50.245,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:52:53.248,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:52:53.249,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:52:53.250,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:52:53.252,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,21:52:53.252,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C84.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:55:20.327,0,0,0,The copy queue has 3 items.,0,0,0
+11/21/2024,21:55:20.328,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:55:20.330,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:55:20.331,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:55:21.332,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,21:55:21.333,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:55:24.336,0,0,0,The copy queue has 3 items.,0,0,0
+11/21/2024,21:55:24.337,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:55:24.338,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:55:24.339,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,21:55:25.339,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,21:55:25.340,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C85.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,21:57:52.414,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:57:52.415,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,21:57:52.416,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,21:57:52.417,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,21:57:52.418,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,21:57:56.420,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,21:57:56.421,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,21:57:56.422,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,21:57:56.423,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,21:57:56.424,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C86.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:00:24.498,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:00:24.500,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:00:24.501,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:00:24.502,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:00:24.503,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:00:29.506,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:00:29.507,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:00:29.508,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:00:29.510,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,22:00:29.511,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C87.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:02:57.605,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:02:57.607,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:02:57.608,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:02:57.609,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:02:57.610,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:03:01.613,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:03:01.614,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:03:01.615,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:03:01.617,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,22:03:01.618,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C88.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:03:06.622,0,0,0,The copy queue has 9 items.,0,0,0
+11/21/2024,22:03:06.623,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt * ,0,0,0
+11/21/2024,22:03:06.624,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt * ,0,0,0
+11/21/2024,22:03:06.625,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt * ,0,0,0
+11/21/2024,22:03:06.626,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt * ,0,0,0
+11/21/2024,22:03:06.627,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt * ,0,0,0
+11/21/2024,22:03:06.628,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt * ,0,0,0
+11/21/2024,22:03:06.629,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt * ,0,0,0
+11/21/2024,22:03:06.630,0,0,0, *Copy5 file: ext = .xml, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_78_phasing.xml * ,0,0,0
+11/21/2024,22:03:06.631,0,0,0, *Copy5 file: ext = .txt, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt * ,0,0,0
+11/21/2024,22:03:07.632,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:07.651,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1102.stats * ,1,0,0
+11/21/2024,22:03:07.653,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:09.655,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:09.657,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1101.stats * ,1,0,0
+11/21/2024,22:03:09.659,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:03:10.660,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:10.662,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:03:10.664,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:11.665,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:11.667,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1102.stats * ,1,0,0
+11/21/2024,22:03:11.668,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:13.671,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:13.673,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1102.stats * ,1,0,0
+11/21/2024,22:03:13.674,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:14.675,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:14.677,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:03:14.678,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:15.680,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:15.682,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:03:15.683,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:16.684,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:16.686,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1102.stats * ,1,0,0
+11/21/2024,22:03:16.687,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:17.689,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:17.691,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:17.692,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:03:18.692,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:18.693,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:03:18.694,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:20.696,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:03:20.698,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:03:20.699,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:05:28.769,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:05:28.770,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:05:28.772,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:05:28.773,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:05:28.774,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:05:29.775,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:05:29.776,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:05:32.779,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:05:32.780,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:05:32.781,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:05:32.782,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,22:05:32.783,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C89.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:05:34.784,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:05:34.785,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:08:00.864,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:08:00.866,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:08:00.867,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:08:00.868,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:08:00.870,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:08:01.871,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:08:01.872,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:08:03.874,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:08:03.875,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:08:03.876,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:08:03.877,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,22:08:03.878,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C90.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:08:04.879,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:08:04.881,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:10:31.952,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:10:31.954,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:10:31.956,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:10:31.957,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:10:31.958,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:10:32.960,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:10:32.961,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:10:36.964,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:10:36.965,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:10:36.966,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:10:36.967,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1102_g.jpg * ,0,0,0
+11/21/2024,22:10:36.968,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C91.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:10:37.969,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:10:37.970,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:13:05.068,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:13:05.070,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:13:05.071,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:13:05.071,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:13:05.072,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:13:06.074,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:13:06.075,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:13:09.078,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:13:09.079,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:13:09.080,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:13:09.082,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1102_g.jpg * ,1,0,0
+11/21/2024,22:13:09.083,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C92.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:13:10.083,0,0,0,The copy queue has 1 items.,0,0,0
+11/21/2024,22:13:10.084,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:15:37.172,0,0,0,The copy queue has 4 items.,0,0,0
+11/21/2024,22:15:37.173,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1101_a.jpg * ,0,0,0
+11/21/2024,22:15:37.176,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1101_c.jpg * ,0,0,0
+11/21/2024,22:15:37.177,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1101_g.jpg * ,0,0,0
+11/21/2024,22:15:37.177,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1101_t.jpg * ,0,0,0
+11/21/2024,22:15:38.178,0,0,0,The copy queue has 2 items.,0,0,0
+11/21/2024,22:15:38.180,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1101.stats * ,1,0,0
+11/21/2024,22:15:38.181,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1101.stats * ,0,0,0
+11/21/2024,22:15:39.182,0,0,0,The copy queue has 3 items.,0,0,0
+11/21/2024,22:15:39.183,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.050,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.052,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.054,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.055,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1102_a.jpg * ,0,0,0
+11/21/2024,22:15:43.056,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1102_c.jpg * ,0,0,0
+11/21/2024,22:15:43.057,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.076,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1102_g.jpg * ,18,0,0
+11/21/2024,22:15:43.077,0,0,0, *Copy5 file: ext = .jpg, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Thumbnail_Images\L001\C93.1\s_1_1102_t.jpg * ,0,0,0
+11/21/2024,22:15:43.078,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.080,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.081,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.084,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.086,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:15:43.087,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.088,0,0,0, *Copy5 file: ext = .stats, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1102.stats * ,0,0,0
+11/21/2024,22:15:43.089,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.091,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.092,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:43.093,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.917,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.918,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:45.920,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.921,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:45.923,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.924,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:45.926,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.927,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1101.bcl * ,0,0,0
+11/21/2024,22:15:45.928,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.929,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.931,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.932,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.934,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.935,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.936,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.937,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.938,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.940,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.941,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:45.942,0,0,0, *Copy5 file: ext = .bcl, size = 0, time = -1, path = D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1102.bcl * ,0,0,0
+11/21/2024,22:15:46.944,0,0,0,Completed copy for read 2,0,0,0

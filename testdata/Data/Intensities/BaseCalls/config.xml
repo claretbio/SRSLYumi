@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BaseCallAnalysis xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Run Name="BaseCalls">
+    <BaseCallParameters>
+      <ChastityThreshold>0.6</ChastityThreshold>
+      <Matrix Path="">
+        <AutoFlag>2</AutoFlag>
+        <AutoLane>0</AutoLane>
+        <Cycle>1</Cycle>
+        <CycleOffset>0</CycleOffset>
+        <FirstCycle>1</FirstCycle>
+        <LastCycle>1</LastCycle>
+        <Read>1</Read>
+      </Matrix>
+      <Phasing Path="">
+        <AutoFlag>2</AutoFlag>
+        <AutoLane>0</AutoLane>
+        <Cycle>2</Cycle>
+        <CycleOffset>1</CycleOffset>
+        <FirstCycle>1</FirstCycle>
+        <LastCycle>1</LastCycle>
+        <Read>1</Read>
+        <PhasingRate>0</PhasingRate>
+        <PrephasingRate>0</PrephasingRate>
+      </Phasing>
+      <PureBases>0</PureBases>
+      <SmtFilter>failed-chastity</SmtFilter>
+      <SmtRelation>le</SmtRelation>
+      <SmtThreshold>1.0</SmtThreshold>
+    </BaseCallParameters>
+    <Cycles First="1" Last="1" Number="1" />
+    <Input />
+    <RunParameters>
+      <AutoCycleFlag>0</AutoCycleFlag>
+      <BasecallFlag>0</BasecallFlag>
+      <Deblocked>0</Deblocked>
+      <DebugFlag>0</DebugFlag>
+      <FirstRunOnlyFlag>0</FirstRunOnlyFlag>
+      <ImagingReads Index="1">
+        <FirstCycle>1</FirstCycle>
+        <LastCycle>1</LastCycle>
+      </ImagingReads>
+      <Instrument>MISEQ</Instrument>
+      <IterativeMatrixFlag>0</IterativeMatrixFlag>
+      <MakeFlag>0</MakeFlag>
+      <MaxCycle>0</MaxCycle>
+      <MinCycle>0</MinCycle>
+      <Reads Index="1">
+        <FirstCycle>1</FirstCycle>
+        <LastCycle>1</LastCycle>
+      </Reads>
+      <RunFolder>241121_M02607_0396_000000000-DR6DN</RunFolder>
+      <RunFolderDate>241121</RunFolderDate>
+      <RunFolderId>0396</RunFolderId>
+      <RunFlowcellId>000000000-DR6DN</RunFlowcellId>
+      <Barcode>
+        <Cycle Use="true">77</Cycle>
+        <Cycle Use="true">78</Cycle>
+        <Cycle Use="true">79</Cycle>
+        <Cycle Use="true">80</Cycle>
+        <Cycle Use="true">81</Cycle>
+        <Cycle Use="true">82</Cycle>
+        <Cycle Use="true">83</Cycle>
+        <Cycle Use="true">84</Cycle>
+        <Cycle Use="true">85</Cycle>
+        <Cycle Use="true">86</Cycle>
+        <Cycle Use="true">87</Cycle>
+        <Cycle Use="true">88</Cycle>
+        <Cycle Use="true">89</Cycle>
+        <Cycle Use="true">90</Cycle>
+        <Cycle Use="true">91</Cycle>
+        <Cycle Use="true">92</Cycle>
+        <Cycle Use="true">93</Cycle>
+        <Cycle Use="true">94</Cycle>
+        <Cycle Use="true">95</Cycle>
+        <Cycle Use="true">96</Cycle>
+        <Cycle Use="true">97</Cycle>
+        <Cycle Use="true">98</Cycle>
+        <Cycle Use="true">99</Cycle>
+        <Cycle Use="true">100</Cycle>
+        <Cycle Use="true">101</Cycle>
+      </Barcode>
+      <QTableVersion>V6</QTableVersion>
+    </RunParameters>
+    <Software Name="RTA" Version="1.18.54.4" />
+    <TileSelection>
+      <Lane Index="1">
+        <Sample>s</Sample>
+        <Tile>1101</Tile>
+        <Tile>1102</Tile>
+      </Lane>
+    </TileSelection>
+    <Time />
+    <User />
+  </Run>
+</BaseCallAnalysis>

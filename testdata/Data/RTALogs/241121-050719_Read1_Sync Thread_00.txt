@@ -1,0 +1,1321 @@
+11/21/2024,17:07:20.906,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,17:07:20.908,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,18:22:35.560,0,0,0,Aggregate color matrix:10,0,0,0
+11/21/2024,18:27:20.726,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:27:20.727,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:27:20.728,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:27:20.729,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:27:20.731,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,18:27:20.732,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,18:27:20.733,0,0,0,Triggering Extraction Cycle Completed 1,0,0,0
+11/21/2024,18:27:20.734,0,0,0,Triggering Extraction Cycle Completed 2,0,0,0
+11/21/2024,18:27:20.734,0,0,0,Triggering Extraction Cycle Completed 3,0,0,0
+11/21/2024,18:27:20.734,0,0,0,Triggering Extraction Cycle Completed 4,0,0,0
+11/21/2024,18:27:20.734,0,0,0,Triggering Extraction Cycle Completed 5,0,0,0
+11/21/2024,18:32:20.910,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:32:20.911,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:32:20.912,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:32:20.913,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:32:20.914,0,0,0,Triggering Extraction Cycle Completed 6,0,0,0
+11/21/2024,18:32:20.914,0,0,0,Triggering Extraction Cycle Completed 7,0,0,0
+11/21/2024,18:37:21.068,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:37:21.069,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:37:21.070,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:37:21.071,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:37:21.072,0,0,0,Triggering Extraction Cycle Completed 8,0,0,0
+11/21/2024,18:37:21.072,0,0,0,Triggering Extraction Cycle Completed 9,0,0,0
+11/21/2024,18:42:21.229,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:42:21.230,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:42:21.231,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:42:21.232,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:42:21.233,0,0,0,Triggering Extraction Cycle Completed 10,0,0,0
+11/21/2024,18:42:21.233,0,0,0,Triggering Extraction Cycle Completed 11,0,0,0
+11/21/2024,18:42:28.259,0,0,0,Aggregate phasing:19,0,0,0
+11/21/2024,18:47:21.422,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:47:21.423,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:47:21.424,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,18:47:21.424,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,18:47:21.426,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:47:21.427,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:47:21.428,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,18:47:21.429,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,18:47:21.430,0,0,0,Triggering Extraction Cycle Completed 12,0,0,0
+11/21/2024,18:47:21.430,0,0,0,Triggering Extraction Cycle Completed 13,0,0,0
+11/21/2024,18:47:21.430,0,0,0,Triggering Extraction Cycle Completed 14,0,0,0
+11/21/2024,18:47:21.430,0,0,0,Triggering Basecall Cycle Completed 1,0,0,0
+11/21/2024,18:47:21.432,0,0,0,Triggering Basecall Cycle Completed 2,0,0,0
+11/21/2024,18:47:21.432,0,0,0,Triggering Basecall Cycle Completed 3,0,0,0
+11/21/2024,18:47:21.432,0,0,0,Triggering Basecall Cycle Completed 4,0,0,0
+11/21/2024,18:47:21.432,0,0,0,Triggering Basecall Cycle Completed 5,0,0,0
+11/21/2024,18:47:21.432,0,0,0,Triggering Basecall Cycle Completed 6,0,0,0
+11/21/2024,18:47:21.432,0,0,0,Triggering Basecall Cycle Completed 7,0,0,0
+11/21/2024,18:47:21.433,0,0,0,Triggering Basecall Cycle Completed 8,0,0,0
+11/21/2024,18:47:21.433,0,0,0,Triggering Basecall Cycle Completed 9,0,0,0
+11/21/2024,18:47:21.433,0,0,0,Triggering Basecall Cycle Completed 10,0,0,0
+11/21/2024,18:47:21.433,0,0,0,Triggering Basecall Cycle Completed 11,0,0,0
+11/21/2024,18:47:21.433,0,0,0,Triggering Basecall Cycle Completed 12,0,0,0
+11/21/2024,18:52:21.600,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:52:21.601,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:52:21.602,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,18:52:21.603,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,18:52:21.604,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:52:21.605,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:52:21.606,0,0,0,Triggering Extraction Cycle Completed 15,0,0,0
+11/21/2024,18:52:21.607,0,0,0,Triggering Basecall Cycle Completed 13,0,0,0
+11/21/2024,18:52:21.607,0,0,0,Triggering Basecall Cycle Completed 14,0,0,0
+11/21/2024,18:57:21.783,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:57:21.784,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,18:57:21.785,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,18:57:21.786,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,18:57:21.787,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:57:21.787,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,18:57:21.788,0,0,0,Triggering Extraction Cycle Completed 16,0,0,0
+11/21/2024,18:57:21.789,0,0,0,Triggering Extraction Cycle Completed 17,0,0,0
+11/21/2024,18:57:21.790,0,0,0,Triggering Basecall Cycle Completed 15,0,0,0
+11/21/2024,18:57:21.790,0,0,0,Triggering Basecall Cycle Completed 16,0,0,0
+11/21/2024,19:02:21.934,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:02:21.935,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:02:21.936,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:02:21.936,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:02:21.938,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:02:21.938,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:02:21.939,0,0,0,Triggering Extraction Cycle Completed 18,0,0,0
+11/21/2024,19:02:21.940,0,0,0,Triggering Extraction Cycle Completed 19,0,0,0
+11/21/2024,19:02:21.940,0,0,0,Triggering Basecall Cycle Completed 17,0,0,0
+11/21/2024,19:02:21.940,0,0,0,Triggering Basecall Cycle Completed 18,0,0,0
+11/21/2024,19:07:22.101,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:07:22.102,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:07:22.102,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:07:22.103,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:07:22.104,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:07:22.104,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:07:22.105,0,0,0,Triggering Extraction Cycle Completed 20,0,0,0
+11/21/2024,19:07:22.106,0,0,0,Triggering Extraction Cycle Completed 21,0,0,0
+11/21/2024,19:07:22.106,0,0,0,Triggering Extraction Cycle Completed 22,0,0,0
+11/21/2024,19:07:22.106,0,0,0,Triggering Basecall Cycle Completed 19,0,0,0
+11/21/2024,19:07:22.106,0,0,0,Triggering Basecall Cycle Completed 20,0,0,0
+11/21/2024,19:12:22.248,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:12:22.249,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:12:22.249,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:12:22.250,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:12:22.251,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:12:22.252,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:12:22.253,0,0,0,Triggering Extraction Cycle Completed 23,0,0,0
+11/21/2024,19:12:22.253,0,0,0,Triggering Basecall Cycle Completed 21,0,0,0
+11/21/2024,19:12:22.253,0,0,0,Triggering Basecall Cycle Completed 22,0,0,0
+11/21/2024,19:17:22.405,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:17:22.406,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:17:22.406,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:17:22.407,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:17:22.408,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:17:22.409,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:17:22.411,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,19:17:22.411,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,19:17:22.420,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:17:22.421,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:17:22.422,0,0,0,Triggering Extraction Cycle Completed 24,0,0,0
+11/21/2024,19:17:22.423,0,0,0,Triggering Extraction Cycle Completed 25,0,0,0
+11/21/2024,19:17:22.423,0,0,0,Triggering Basecall Cycle Completed 23,0,0,0
+11/21/2024,19:17:22.423,0,0,0,Triggering Basecall Cycle Completed 24,0,0,0
+11/21/2024,19:22:22.577,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:22:22.578,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:22:22.578,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:22:22.579,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:22:22.580,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.581,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.583,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.584,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\TileMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.585,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.586,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.587,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.588,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:22:22.589,0,0,0,Triggering Extraction Cycle Completed 26,0,0,0
+11/21/2024,19:22:22.589,0,0,0,Triggering Extraction Cycle Completed 27,0,0,0
+11/21/2024,19:22:22.589,0,0,0,Triggering Basecall Cycle Completed 25,0,0,0
+11/21/2024,19:22:22.589,0,0,0,Triggering Basecall Cycle Completed 26,0,0,0
+11/21/2024,19:22:22.589,0,0,0,Triggering Quality Scored Cycle Completed 1,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 2,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 3,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 4,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 5,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 6,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 7,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 8,0,0,0
+11/21/2024,19:22:22.591,0,0,0,Triggering Quality Scored Cycle Completed 9,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 10,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 11,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 12,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 13,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 14,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 15,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 16,0,0,0
+11/21/2024,19:22:22.592,0,0,0,Triggering Quality Scored Cycle Completed 17,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 18,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 19,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 20,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 21,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 22,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 23,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 24,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 25,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering Quality Scored Cycle Completed 26,0,0,0
+11/21/2024,19:22:22.593,0,0,0,Triggering BCL file copied Cycle Completed 1,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 2,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 3,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 4,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 5,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 6,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 7,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 8,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 9,0,0,0
+11/21/2024,19:22:22.595,0,0,0,Triggering BCL file copied Cycle Completed 10,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 11,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 12,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 13,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 14,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 15,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 16,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 17,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 18,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 19,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 20,0,0,0
+11/21/2024,19:22:22.596,0,0,0,Triggering BCL file copied Cycle Completed 21,0,0,0
+11/21/2024,19:22:22.597,0,0,0,Triggering BCL file copied Cycle Completed 22,0,0,0
+11/21/2024,19:22:22.597,0,0,0,Triggering BCL file copied Cycle Completed 23,0,0,0
+11/21/2024,19:22:22.597,0,0,0,Triggering BCL file copied Cycle Completed 24,0,0,0
+11/21/2024,19:22:22.597,0,0,0,Triggering BCL file copied Cycle Completed 25,0,0,0
+11/21/2024,19:22:22.597,0,0,0,Triggering BCL file copied Cycle Completed 26,0,0,0
+11/21/2024,19:27:22.747,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:27:22.748,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:27:22.749,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:27:22.750,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:27:22.751,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:27:22.752,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:27:22.753,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:27:22.754,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:27:22.755,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:27:22.757,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:27:22.758,0,0,0,Triggering Extraction Cycle Completed 28,0,0,0
+11/21/2024,19:27:22.758,0,0,0,Triggering Extraction Cycle Completed 29,0,0,0
+11/21/2024,19:27:22.759,0,0,0,Triggering Basecall Cycle Completed 27,0,0,0
+11/21/2024,19:27:22.759,0,0,0,Triggering Basecall Cycle Completed 28,0,0,0
+11/21/2024,19:27:22.759,0,0,0,Triggering Quality Scored Cycle Completed 27,0,0,0
+11/21/2024,19:27:22.759,0,0,0,Triggering Quality Scored Cycle Completed 28,0,0,0
+11/21/2024,19:27:22.759,0,0,0,Triggering BCL file copied Cycle Completed 27,0,0,0
+11/21/2024,19:27:22.759,0,0,0,Triggering BCL file copied Cycle Completed 28,0,0,0
+11/21/2024,19:32:22.901,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:32:22.902,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:32:22.903,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:32:22.904,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:32:22.905,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:32:22.906,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:32:22.907,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:32:22.908,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:32:22.909,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:32:22.910,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:32:22.910,0,0,0,Triggering Extraction Cycle Completed 30,0,0,0
+11/21/2024,19:32:22.910,0,0,0,Triggering Extraction Cycle Completed 31,0,0,0
+11/21/2024,19:32:22.911,0,0,0,Triggering Basecall Cycle Completed 29,0,0,0
+11/21/2024,19:32:22.911,0,0,0,Triggering Basecall Cycle Completed 30,0,0,0
+11/21/2024,19:32:22.911,0,0,0,Triggering Quality Scored Cycle Completed 29,0,0,0
+11/21/2024,19:32:22.911,0,0,0,Triggering Quality Scored Cycle Completed 30,0,0,0
+11/21/2024,19:32:22.911,0,0,0,Triggering BCL file copied Cycle Completed 29,0,0,0
+11/21/2024,19:32:22.911,0,0,0,Triggering BCL file copied Cycle Completed 30,0,0,0
+11/21/2024,19:37:23.054,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:37:23.055,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:37:23.056,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:37:23.057,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:37:23.058,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:37:23.059,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:37:23.060,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:37:23.061,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:37:23.062,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:37:23.063,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:37:23.064,0,0,0,Triggering Extraction Cycle Completed 32,0,0,0
+11/21/2024,19:37:23.064,0,0,0,Triggering Extraction Cycle Completed 33,0,0,0
+11/21/2024,19:37:23.064,0,0,0,Triggering Basecall Cycle Completed 31,0,0,0
+11/21/2024,19:37:23.064,0,0,0,Triggering Basecall Cycle Completed 32,0,0,0
+11/21/2024,19:37:23.064,0,0,0,Triggering Quality Scored Cycle Completed 31,0,0,0
+11/21/2024,19:37:23.065,0,0,0,Triggering Quality Scored Cycle Completed 32,0,0,0
+11/21/2024,19:37:23.065,0,0,0,Triggering BCL file copied Cycle Completed 31,0,0,0
+11/21/2024,19:37:23.065,0,0,0,Triggering BCL file copied Cycle Completed 32,0,0,0
+11/21/2024,19:42:23.216,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:42:23.217,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:42:23.218,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:42:23.219,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:42:23.220,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:42:23.221,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:42:23.222,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:42:23.223,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:42:23.224,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:42:23.225,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:42:23.225,0,0,0,Triggering Extraction Cycle Completed 34,0,0,0
+11/21/2024,19:42:23.226,0,0,0,Triggering Extraction Cycle Completed 35,0,0,0
+11/21/2024,19:42:23.226,0,0,0,Triggering Basecall Cycle Completed 33,0,0,0
+11/21/2024,19:42:23.226,0,0,0,Triggering Basecall Cycle Completed 34,0,0,0
+11/21/2024,19:42:23.226,0,0,0,Triggering Quality Scored Cycle Completed 33,0,0,0
+11/21/2024,19:42:23.226,0,0,0,Triggering Quality Scored Cycle Completed 34,0,0,0
+11/21/2024,19:42:23.227,0,0,0,Triggering BCL file copied Cycle Completed 33,0,0,0
+11/21/2024,19:42:23.227,0,0,0,Triggering BCL file copied Cycle Completed 34,0,0,0
+11/21/2024,19:47:23.370,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:47:23.371,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:47:23.372,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:47:23.372,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:47:23.374,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:47:23.375,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:47:23.377,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:47:23.377,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:47:23.378,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:47:23.379,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:47:23.380,0,0,0,Triggering Extraction Cycle Completed 36,0,0,0
+11/21/2024,19:47:23.380,0,0,0,Triggering Extraction Cycle Completed 37,0,0,0
+11/21/2024,19:47:23.380,0,0,0,Triggering Basecall Cycle Completed 35,0,0,0
+11/21/2024,19:47:23.380,0,0,0,Triggering Basecall Cycle Completed 36,0,0,0
+11/21/2024,19:47:23.380,0,0,0,Triggering Quality Scored Cycle Completed 35,0,0,0
+11/21/2024,19:47:23.381,0,0,0,Triggering Quality Scored Cycle Completed 36,0,0,0
+11/21/2024,19:47:23.381,0,0,0,Triggering BCL file copied Cycle Completed 35,0,0,0
+11/21/2024,19:47:23.381,0,0,0,Triggering BCL file copied Cycle Completed 36,0,0,0
+11/21/2024,19:52:23.524,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:52:23.525,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:52:23.525,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:52:23.526,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:52:23.527,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:52:23.528,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:52:23.529,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:52:23.530,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:52:23.532,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:52:23.532,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:52:23.533,0,0,0,Triggering Extraction Cycle Completed 38,0,0,0
+11/21/2024,19:52:23.533,0,0,0,Triggering Extraction Cycle Completed 39,0,0,0
+11/21/2024,19:52:23.533,0,0,0,Triggering Basecall Cycle Completed 37,0,0,0
+11/21/2024,19:52:23.534,0,0,0,Triggering Basecall Cycle Completed 38,0,0,0
+11/21/2024,19:52:23.534,0,0,0,Triggering Quality Scored Cycle Completed 37,0,0,0
+11/21/2024,19:52:23.534,0,0,0,Triggering Quality Scored Cycle Completed 38,0,0,0
+11/21/2024,19:52:23.534,0,0,0,Triggering BCL file copied Cycle Completed 37,0,0,0
+11/21/2024,19:52:23.534,0,0,0,Triggering BCL file copied Cycle Completed 38,0,0,0
+11/21/2024,19:57:23.679,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:57:23.679,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,19:57:23.680,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:57:23.681,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,19:57:23.682,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:57:23.683,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,19:57:23.684,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:57:23.686,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,19:57:23.687,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:57:23.687,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,19:57:23.688,0,0,0,Triggering Extraction Cycle Completed 40,0,0,0
+11/21/2024,19:57:23.688,0,0,0,Triggering Extraction Cycle Completed 41,0,0,0
+11/21/2024,19:57:23.689,0,0,0,Triggering Basecall Cycle Completed 39,0,0,0
+11/21/2024,19:57:23.689,0,0,0,Triggering Basecall Cycle Completed 40,0,0,0
+11/21/2024,19:57:23.689,0,0,0,Triggering Quality Scored Cycle Completed 39,0,0,0
+11/21/2024,19:57:23.689,0,0,0,Triggering Quality Scored Cycle Completed 40,0,0,0
+11/21/2024,19:57:23.689,0,0,0,Triggering BCL file copied Cycle Completed 39,0,0,0
+11/21/2024,19:57:23.689,0,0,0,Triggering BCL file copied Cycle Completed 40,0,0,0
+11/21/2024,20:02:23.851,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:02:23.852,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:02:23.852,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:02:23.853,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:02:23.854,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:02:23.855,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:02:23.856,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:02:23.857,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:02:23.858,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:02:23.859,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering Extraction Cycle Completed 42,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering Extraction Cycle Completed 43,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering Basecall Cycle Completed 41,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering Basecall Cycle Completed 42,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering Quality Scored Cycle Completed 41,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering Quality Scored Cycle Completed 42,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering BCL file copied Cycle Completed 41,0,0,0
+11/21/2024,20:02:23.860,0,0,0,Triggering BCL file copied Cycle Completed 42,0,0,0
+11/21/2024,20:07:24.012,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:07:24.013,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:07:24.014,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:07:24.014,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:07:24.016,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:07:24.017,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:07:24.018,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:07:24.019,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:07:24.020,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:07:24.021,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering Extraction Cycle Completed 44,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering Extraction Cycle Completed 45,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering Basecall Cycle Completed 43,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering Basecall Cycle Completed 44,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering Quality Scored Cycle Completed 43,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering Quality Scored Cycle Completed 44,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering BCL file copied Cycle Completed 43,0,0,0
+11/21/2024,20:07:24.022,0,0,0,Triggering BCL file copied Cycle Completed 44,0,0,0
+11/21/2024,20:12:24.186,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:12:24.187,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:12:24.187,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:12:24.188,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:12:24.191,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:12:24.191,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:12:24.193,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:12:24.193,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:12:24.194,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:12:24.195,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:12:24.196,0,0,0,Triggering Extraction Cycle Completed 46,0,0,0
+11/21/2024,20:12:24.196,0,0,0,Triggering Extraction Cycle Completed 47,0,0,0
+11/21/2024,20:12:24.196,0,0,0,Triggering Basecall Cycle Completed 45,0,0,0
+11/21/2024,20:12:24.196,0,0,0,Triggering Basecall Cycle Completed 46,0,0,0
+11/21/2024,20:12:24.196,0,0,0,Triggering Quality Scored Cycle Completed 45,0,0,0
+11/21/2024,20:12:24.197,0,0,0,Triggering Quality Scored Cycle Completed 46,0,0,0
+11/21/2024,20:12:24.197,0,0,0,Triggering BCL file copied Cycle Completed 45,0,0,0
+11/21/2024,20:12:24.197,0,0,0,Triggering BCL file copied Cycle Completed 46,0,0,0
+11/21/2024,20:17:24.349,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:17:24.350,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:17:24.351,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:17:24.352,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:17:24.353,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:17:24.354,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:17:24.355,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:17:24.356,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:17:24.357,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:17:24.358,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:17:24.358,0,0,0,Triggering Extraction Cycle Completed 48,0,0,0
+11/21/2024,20:17:24.359,0,0,0,Triggering Extraction Cycle Completed 49,0,0,0
+11/21/2024,20:17:24.359,0,0,0,Triggering Basecall Cycle Completed 47,0,0,0
+11/21/2024,20:17:24.359,0,0,0,Triggering Basecall Cycle Completed 48,0,0,0
+11/21/2024,20:17:24.359,0,0,0,Triggering Quality Scored Cycle Completed 47,0,0,0
+11/21/2024,20:17:24.359,0,0,0,Triggering Quality Scored Cycle Completed 48,0,0,0
+11/21/2024,20:17:24.359,0,0,0,Triggering BCL file copied Cycle Completed 47,0,0,0
+11/21/2024,20:17:24.360,0,0,0,Triggering BCL file copied Cycle Completed 48,0,0,0
+11/21/2024,20:22:24.506,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:22:24.507,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:22:24.507,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:22:24.508,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:22:24.509,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:22:24.510,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:22:24.512,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:22:24.513,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:22:24.514,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:22:24.515,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:22:24.515,0,0,0,Triggering Extraction Cycle Completed 50,0,0,0
+11/21/2024,20:22:24.516,0,0,0,Triggering Extraction Cycle Completed 51,0,0,0
+11/21/2024,20:22:24.516,0,0,0,Triggering Basecall Cycle Completed 49,0,0,0
+11/21/2024,20:22:24.516,0,0,0,Triggering Basecall Cycle Completed 50,0,0,0
+11/21/2024,20:22:24.516,0,0,0,Triggering Quality Scored Cycle Completed 49,0,0,0
+11/21/2024,20:22:24.516,0,0,0,Triggering Quality Scored Cycle Completed 50,0,0,0
+11/21/2024,20:22:24.516,0,0,0,Triggering BCL file copied Cycle Completed 49,0,0,0
+11/21/2024,20:22:24.517,0,0,0,Triggering BCL file copied Cycle Completed 50,0,0,0
+11/21/2024,20:27:24.664,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:27:24.666,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:27:24.667,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:27:24.667,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:27:24.669,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:27:24.669,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:27:24.671,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:27:24.672,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:27:24.673,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:27:24.674,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:27:24.674,0,0,0,Triggering Extraction Cycle Completed 52,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering Extraction Cycle Completed 53,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering Basecall Cycle Completed 51,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering Basecall Cycle Completed 52,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering Quality Scored Cycle Completed 51,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering Quality Scored Cycle Completed 52,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering BCL file copied Cycle Completed 51,0,0,0
+11/21/2024,20:27:24.675,0,0,0,Triggering BCL file copied Cycle Completed 52,0,0,0
+11/21/2024,20:32:24.820,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:32:24.821,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:32:24.822,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:32:24.823,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:32:24.824,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:32:24.825,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:32:24.827,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:32:24.828,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:32:24.829,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:32:24.830,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering Extraction Cycle Completed 54,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering Extraction Cycle Completed 55,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering Basecall Cycle Completed 53,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering Basecall Cycle Completed 54,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering Quality Scored Cycle Completed 53,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering Quality Scored Cycle Completed 54,0,0,0
+11/21/2024,20:32:24.831,0,0,0,Triggering BCL file copied Cycle Completed 53,0,0,0
+11/21/2024,20:32:24.832,0,0,0,Triggering BCL file copied Cycle Completed 54,0,0,0
+11/21/2024,20:37:24.974,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:37:24.975,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:37:24.975,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:37:24.976,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:37:24.978,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:37:24.978,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:37:24.980,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:37:24.981,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:37:24.982,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:37:24.983,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:37:24.984,0,0,0,Triggering Extraction Cycle Completed 56,0,0,0
+11/21/2024,20:37:24.984,0,0,0,Triggering Extraction Cycle Completed 57,0,0,0
+11/21/2024,20:37:24.985,0,0,0,Triggering Basecall Cycle Completed 55,0,0,0
+11/21/2024,20:37:24.985,0,0,0,Triggering Basecall Cycle Completed 56,0,0,0
+11/21/2024,20:37:24.985,0,0,0,Triggering Quality Scored Cycle Completed 55,0,0,0
+11/21/2024,20:37:24.985,0,0,0,Triggering Quality Scored Cycle Completed 56,0,0,0
+11/21/2024,20:37:24.985,0,0,0,Triggering BCL file copied Cycle Completed 55,0,0,0
+11/21/2024,20:37:24.985,0,0,0,Triggering BCL file copied Cycle Completed 56,0,0,0
+11/21/2024,20:42:25.142,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:42:25.143,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:42:25.144,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:42:25.144,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:42:25.146,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:42:25.147,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:42:25.148,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:42:25.149,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:42:25.150,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:42:25.151,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:42:25.151,0,0,0,Triggering Extraction Cycle Completed 58,0,0,0
+11/21/2024,20:42:25.152,0,0,0,Triggering Extraction Cycle Completed 59,0,0,0
+11/21/2024,20:42:25.153,0,0,0,Triggering Basecall Cycle Completed 57,0,0,0
+11/21/2024,20:42:25.153,0,0,0,Triggering Basecall Cycle Completed 58,0,0,0
+11/21/2024,20:42:25.153,0,0,0,Triggering Quality Scored Cycle Completed 57,0,0,0
+11/21/2024,20:42:25.153,0,0,0,Triggering Quality Scored Cycle Completed 58,0,0,0
+11/21/2024,20:42:25.153,0,0,0,Triggering BCL file copied Cycle Completed 57,0,0,0
+11/21/2024,20:42:25.153,0,0,0,Triggering BCL file copied Cycle Completed 58,0,0,0
+11/21/2024,20:47:25.304,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:47:25.305,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:47:25.306,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:47:25.307,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:47:25.308,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:47:25.309,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:47:25.310,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:47:25.311,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:47:25.313,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:47:25.313,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:47:25.314,0,0,0,Triggering Extraction Cycle Completed 60,0,0,0
+11/21/2024,20:47:25.314,0,0,0,Triggering Extraction Cycle Completed 61,0,0,0
+11/21/2024,20:47:25.315,0,0,0,Triggering Basecall Cycle Completed 59,0,0,0
+11/21/2024,20:47:25.315,0,0,0,Triggering Quality Scored Cycle Completed 59,0,0,0
+11/21/2024,20:47:25.315,0,0,0,Triggering BCL file copied Cycle Completed 59,0,0,0
+11/21/2024,20:52:25.488,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:52:25.488,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:52:25.489,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:52:25.490,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:52:25.491,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:52:25.492,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:52:25.494,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:52:25.494,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:52:25.496,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:52:25.497,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:52:25.498,0,0,0,Triggering Extraction Cycle Completed 62,0,0,0
+11/21/2024,20:52:25.498,0,0,0,Triggering Basecall Cycle Completed 60,0,0,0
+11/21/2024,20:52:25.498,0,0,0,Triggering Basecall Cycle Completed 61,0,0,0
+11/21/2024,20:52:25.498,0,0,0,Triggering Quality Scored Cycle Completed 60,0,0,0
+11/21/2024,20:52:25.499,0,0,0,Triggering Quality Scored Cycle Completed 61,0,0,0
+11/21/2024,20:52:25.499,0,0,0,Triggering BCL file copied Cycle Completed 60,0,0,0
+11/21/2024,20:52:25.499,0,0,0,Triggering BCL file copied Cycle Completed 61,0,0,0
+11/21/2024,20:57:25.643,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:57:25.643,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,20:57:25.644,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:57:25.645,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,20:57:25.647,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:57:25.648,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,20:57:25.649,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:57:25.650,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,20:57:25.651,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:57:25.652,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,20:57:25.653,0,0,0,Triggering Extraction Cycle Completed 63,0,0,0
+11/21/2024,20:57:25.653,0,0,0,Triggering Extraction Cycle Completed 64,0,0,0
+11/21/2024,20:57:25.653,0,0,0,Triggering Basecall Cycle Completed 62,0,0,0
+11/21/2024,20:57:25.653,0,0,0,Triggering Basecall Cycle Completed 63,0,0,0
+11/21/2024,20:57:25.653,0,0,0,Triggering Quality Scored Cycle Completed 62,0,0,0
+11/21/2024,20:57:25.654,0,0,0,Triggering Quality Scored Cycle Completed 63,0,0,0
+11/21/2024,20:57:25.654,0,0,0,Triggering BCL file copied Cycle Completed 62,0,0,0
+11/21/2024,20:57:25.654,0,0,0,Triggering BCL file copied Cycle Completed 63,0,0,0
+11/21/2024,21:02:25.799,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:02:25.800,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:02:25.801,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:02:25.802,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:02:25.803,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:02:25.804,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:02:25.806,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:02:25.806,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:02:25.808,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:02:25.808,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:02:25.809,0,0,0,Triggering Extraction Cycle Completed 65,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering Extraction Cycle Completed 66,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering Basecall Cycle Completed 64,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering Basecall Cycle Completed 65,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering Quality Scored Cycle Completed 64,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering Quality Scored Cycle Completed 65,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering BCL file copied Cycle Completed 64,0,0,0
+11/21/2024,21:02:25.810,0,0,0,Triggering BCL file copied Cycle Completed 65,0,0,0
+11/21/2024,21:07:25.962,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:07:25.963,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:07:25.963,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:07:25.964,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:07:25.966,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:07:25.967,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:07:25.969,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:07:25.969,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:07:25.970,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:07:25.970,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:07:25.971,0,0,0,Triggering Extraction Cycle Completed 67,0,0,0
+11/21/2024,21:07:25.971,0,0,0,Triggering Extraction Cycle Completed 68,0,0,0
+11/21/2024,21:07:25.971,0,0,0,Triggering Basecall Cycle Completed 66,0,0,0
+11/21/2024,21:07:25.972,0,0,0,Triggering Basecall Cycle Completed 67,0,0,0
+11/21/2024,21:07:25.972,0,0,0,Triggering Quality Scored Cycle Completed 66,0,0,0
+11/21/2024,21:07:25.972,0,0,0,Triggering Quality Scored Cycle Completed 67,0,0,0
+11/21/2024,21:07:25.972,0,0,0,Triggering BCL file copied Cycle Completed 66,0,0,0
+11/21/2024,21:07:25.972,0,0,0,Triggering BCL file copied Cycle Completed 67,0,0,0
+11/21/2024,21:12:26.115,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:12:26.116,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:12:26.117,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:12:26.118,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:12:26.119,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:12:26.120,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:12:26.121,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:12:26.122,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:12:26.124,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:12:26.124,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:12:26.125,0,0,0,Triggering Extraction Cycle Completed 69,0,0,0
+11/21/2024,21:12:26.125,0,0,0,Triggering Extraction Cycle Completed 70,0,0,0
+11/21/2024,21:12:26.126,0,0,0,Triggering Basecall Cycle Completed 68,0,0,0
+11/21/2024,21:12:26.126,0,0,0,Triggering Basecall Cycle Completed 69,0,0,0
+11/21/2024,21:12:26.126,0,0,0,Triggering Quality Scored Cycle Completed 68,0,0,0
+11/21/2024,21:12:26.126,0,0,0,Triggering Quality Scored Cycle Completed 69,0,0,0
+11/21/2024,21:12:26.127,0,0,0,Triggering BCL file copied Cycle Completed 68,0,0,0
+11/21/2024,21:12:26.127,0,0,0,Triggering BCL file copied Cycle Completed 69,0,0,0
+11/21/2024,21:17:26.311,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:17:26.312,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:17:26.313,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:17:26.314,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:17:26.315,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:17:26.316,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:17:26.317,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:17:26.318,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:17:26.320,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:17:26.320,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:17:26.321,0,0,0,Triggering Extraction Cycle Completed 71,0,0,0
+11/21/2024,21:17:26.321,0,0,0,Triggering Extraction Cycle Completed 72,0,0,0
+11/21/2024,21:17:26.322,0,0,0,Triggering Basecall Cycle Completed 70,0,0,0
+11/21/2024,21:17:26.322,0,0,0,Triggering Basecall Cycle Completed 71,0,0,0
+11/21/2024,21:17:26.322,0,0,0,Triggering Quality Scored Cycle Completed 70,0,0,0
+11/21/2024,21:17:26.322,0,0,0,Triggering Quality Scored Cycle Completed 71,0,0,0
+11/21/2024,21:17:26.322,0,0,0,Triggering BCL file copied Cycle Completed 70,0,0,0
+11/21/2024,21:17:26.322,0,0,0,Triggering BCL file copied Cycle Completed 71,0,0,0
+11/21/2024,21:22:26.461,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:22:26.462,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:22:26.463,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:22:26.464,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:22:26.466,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:22:26.466,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:22:26.468,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:22:26.468,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:22:26.470,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:22:26.470,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:22:26.471,0,0,0,Triggering Extraction Cycle Completed 73,0,0,0
+11/21/2024,21:22:26.472,0,0,0,Triggering Extraction Cycle Completed 74,0,0,0
+11/21/2024,21:22:26.472,0,0,0,Triggering Basecall Cycle Completed 72,0,0,0
+11/21/2024,21:22:26.472,0,0,0,Triggering Basecall Cycle Completed 73,0,0,0
+11/21/2024,21:22:26.472,0,0,0,Triggering Quality Scored Cycle Completed 72,0,0,0
+11/21/2024,21:22:26.473,0,0,0,Triggering Quality Scored Cycle Completed 73,0,0,0
+11/21/2024,21:22:26.473,0,0,0,Triggering BCL file copied Cycle Completed 72,0,0,0
+11/21/2024,21:22:26.473,0,0,0,Triggering BCL file copied Cycle Completed 73,0,0,0
+11/21/2024,21:25:11.555,0,0,0,All Threads have finished,0,0,0
+11/21/2024,21:25:11.555,0,0,0,Waiting for copy and delete threads to finish...,0,0,0
+11/21/2024,21:25:13.558,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:25:13.559,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:25:13.560,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:25:13.560,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:25:13.562,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:25:13.562,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\ExtractionMetricsOut.bin,0,0,0
+11/21/2024,21:25:13.564,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:25:13.565,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\QMetricsOut.bin,0,0,0
+11/21/2024,21:25:13.566,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:25:13.567,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+11/21/2024,21:25:13.567,0,0,0,Completed copy for read 1,0,0,0
+11/21/2024,21:25:13.568,0,0,0,Triggering Extraction Cycle Completed 75,0,0,0
+11/21/2024,21:25:13.568,0,0,0,Triggering Extraction Cycle Completed 76,0,0,0
+11/21/2024,21:25:13.568,0,0,0,Triggering Basecall Cycle Completed 74,0,0,0
+11/21/2024,21:25:13.568,0,0,0,Triggering Basecall Cycle Completed 75,0,0,0
+11/21/2024,21:25:13.568,0,0,0,Triggering Basecall Cycle Completed 76,0,0,0
+11/21/2024,21:25:13.569,0,0,0,Triggering Quality Scored Cycle Completed 74,0,0,0
+11/21/2024,21:25:13.569,0,0,0,Triggering Quality Scored Cycle Completed 75,0,0,0
+11/21/2024,21:25:13.569,0,0,0,Triggering Quality Scored Cycle Completed 76,0,0,0
+11/21/2024,21:25:13.569,0,0,0,Triggering BCL file copied Cycle Completed 74,0,0,0
+11/21/2024,21:25:13.569,0,0,0,Triggering BCL file copied Cycle Completed 75,0,0,0
+11/21/2024,21:25:13.569,0,0,0,Triggering BCL file copied Cycle Completed 76,0,0,0
+11/21/2024,21:25:13.570,0,0,0,Processing completed. Run has finished.,0,0,0
+11/21/2024,21:25:13.570,0,0,0,Moving all base level files,0,0,0
+11/21/2024,21:25:13.571,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\ImageAnalysis_Netcopy_complete.txt,0,0,0
+11/21/2024,21:25:13.571,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\ReportInfo.dat,0,0,0
+11/21/2024,21:25:13.572,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunParameters.xml,0,0,0
+11/21/2024,21:25:13.586,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunParameters.xml to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\RunParameters.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\RunParameters.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.587,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\ImageAnalysis_Netcopy_complete_Read1.txt,0,0,0
+11/21/2024,21:25:13.588,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\SampleSheet.csv,0,0,0
+11/21/2024,21:25:13.589,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\SampleSheet.csv to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\SampleSheet.csv : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\SampleSheet.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.590,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml,0,0,0
+11/21/2024,21:25:13.591,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.593,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\ImageAnalysis_Netcopy_complete.txt,0,0,0
+11/21/2024,21:25:13.594,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\ReportInfo.dat,0,0,0
+11/21/2024,21:25:13.594,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunParameters.xml,0,0,0
+11/21/2024,21:25:13.595,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunParameters.xml to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\RunParameters.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\RunParameters.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.597,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\ImageAnalysis_Netcopy_complete_Read1.txt,0,0,0
+11/21/2024,21:25:13.597,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\SampleSheet.csv,0,0,0
+11/21/2024,21:25:13.597,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml,0,0,0
+11/21/2024,21:25:13.598,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\RunInfo.xml to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\RunInfo.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\RunInfo.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.600,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\Effective.cfg,0,0,0
+11/21/2024,21:25:13.601,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat,0,0,0
+11/21/2024,21:25:13.602,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.603,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\MiSeqOverride.cfg,0,0,0
+11/21/2024,21:25:13.604,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\Effective.cfg,0,0,0
+11/21/2024,21:25:13.605,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat,0,0,0
+11/21/2024,21:25:13.606,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Config\RTAStart.bat' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.607,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Config\MiSeqOverride.cfg,0,0,0
+11/21/2024,21:25:13.608,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:25:13.609,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml,0,0,0
+11/21/2024,21:25:13.610,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.611,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:25:13.612,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\SampleSheet.csv,0,0,0
+11/21/2024,21:25:13.613,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.613,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.615,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt,0,0,0
+11/21/2024,21:25:13.615,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.617,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.617,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.618,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_4_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.619,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.620,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.621,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.622,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt,0,0,0
+11/21/2024,21:25:13.623,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.624,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.625,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_4_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.625,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1101.txt,0,0,0
+11/21/2024,21:25:13.627,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml,0,0,0
+11/21/2024,21:25:13.628,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.629,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt,0,0,0
+11/21/2024,21:25:13.630,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.631,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt,0,0,0
+11/21/2024,21:25:13.632,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.633,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1102.txt,0,0,0
+11/21/2024,21:25:13.634,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt,0,0,0
+11/21/2024,21:25:13.635,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.636,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt,0,0,0
+11/21/2024,21:25:13.637,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt to D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.639,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\Offsets\offsets.txt,0,0,0
+11/21/2024,21:25:13.640,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\Offsets\SubTileOffsets.txt,0,0,0
+11/21/2024,21:25:13.641,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Log_00.txt,0,0,0
+11/21/2024,21:25:13.642,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Delete Thread_00.txt,0,0,0
+11/21/2024,21:25:13.642,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Processor #2_00.txt,0,0,0
+11/21/2024,21:25:13.643,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\DiagLog.txt,0,0,0
+11/21/2024,21:25:13.644,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Copy Thread_00.txt,0,0,0
+11/21/2024,21:25:13.645,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Sync Thread_00.txt,0,0,0
+11/21/2024,21:25:13.646,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Processor #1_00.txt,0,0,0
+11/21/2024,21:25:13.648,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\config.xml,0,0,0
+11/21/2024,21:25:13.648,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml,0,0,0
+11/21/2024,21:25:13.649,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\RTAConfiguration.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.650,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\config.xml,0,0,0
+11/21/2024,21:25:13.650,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\SampleSheet.csv,0,0,0
+11/21/2024,21:25:13.651,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.652,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt,0,0,0
+11/21/2024,21:25:13.653,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.654,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.655,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.656,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_4_1102_matrix.txt,0,0,0
+11/21/2024,21:25:13.657,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.658,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt,0,0,0
+11/21/2024,21:25:13.659,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.661,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.662,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Matrix\s_1_4_1101_matrix.txt,0,0,0
+11/21/2024,21:25:13.663,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1101.txt,0,0,0
+11/21/2024,21:25:13.664,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml,0,0,0
+11/21/2024,21:25:13.665,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.666,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt,0,0,0
+11/21/2024,21:25:13.667,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.668,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt,0,0,0
+11/21/2024,21:25:13.669,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.670,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1102.txt,0,0,0
+11/21/2024,21:25:13.671,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt,0,0,0
+11/21/2024,21:25:13.672,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.673,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt,0,0,0
+11/21/2024,21:25:13.674,0,0,0,Error Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt to D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\241121_M02607_0396_000000000-DR6DN\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+11/21/2024,21:25:13.676,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\Offsets\offsets.txt,0,0,0
+11/21/2024,21:25:13.677,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\Intensities\Offsets\SubTileOffsets.txt,0,0,0
+11/21/2024,21:25:13.679,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Log_00.txt,0,0,0
+11/21/2024,21:25:13.680,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Delete Thread_00.txt,0,0,0
+11/21/2024,21:25:13.681,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Processor #2_00.txt,0,0,0
+11/21/2024,21:25:13.682,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\DiagLog.txt,0,0,0
+11/21/2024,21:25:13.683,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Copy Thread_00.txt,0,0,0
+11/21/2024,21:25:13.684,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Sync Thread_00.txt,0,0,0
+11/21/2024,21:25:13.685,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Data\RTALogs\241121-050719_Read1_Processor #1_00.txt,0,0,0
+11/21/2024,21:25:13.687,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-01.07.17__0189__RunSetup.imf1,0,0,0
+11/21/2024,21:25:13.688,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.04.57__0191__RunChemistry.imf1,0,0,0
+11/21/2024,21:25:13.689,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.14.41__0193__RunCycle__1.imf1,0,0,0
+11/21/2024,21:25:13.690,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.19.49__0195__RunCycle__3.imf1,0,0,0
+11/21/2024,21:25:13.690,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.24.50__0197__RunCycle__5.imf1,0,0,0
+11/21/2024,21:25:13.691,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.29.51__0199__RunCycle__7.imf1,0,0,0
+11/21/2024,21:25:13.692,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.34.50__0201__RunCycle__9.imf1,0,0,0
+11/21/2024,21:25:13.693,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.39.51__0203__RunCycle__11.imf1,0,0,0
+11/21/2024,21:25:13.694,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.44.50__0205__RunCycle__13.imf1,0,0,0
+11/21/2024,21:25:13.695,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.49.51__0207__RunCycle__15.imf1,0,0,0
+11/21/2024,21:25:13.696,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.54.51__0209__RunCycle__17.imf1,0,0,0
+11/21/2024,21:25:13.697,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.59.51__0211__RunCycle__19.imf1,0,0,0
+11/21/2024,21:25:13.698,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.04.51__0213__RunCycle__21.imf1,0,0,0
+11/21/2024,21:25:13.698,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.09.52__0215__RunCycle__23.imf1,0,0,0
+11/21/2024,21:25:13.699,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.14.52__0217__RunCycle__25.imf1,0,0,0
+11/21/2024,21:25:13.700,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.19.53__0219__RunCycle__27.imf1,0,0,0
+11/21/2024,21:25:13.701,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.24.53__0221__RunCycle__29.imf1,0,0,0
+11/21/2024,21:25:13.702,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.29.54__0223__RunCycle__31.imf1,0,0,0
+11/21/2024,21:25:13.703,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.34.54__0225__RunCycle__33.imf1,0,0,0
+11/21/2024,21:25:13.704,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.39.55__0227__RunCycle__35.imf1,0,0,0
+11/21/2024,21:25:13.705,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.44.55__0229__RunCycle__37.imf1,0,0,0
+11/21/2024,21:25:13.705,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.49.56__0231__RunCycle__39.imf1,0,0,0
+11/21/2024,21:25:13.706,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.54.57__0233__RunCycle__41.imf1,0,0,0
+11/21/2024,21:25:13.707,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.59.58__0235__RunCycle__43.imf1,0,0,0
+11/21/2024,21:25:13.708,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.04.59__0237__RunCycle__45.imf1,0,0,0
+11/21/2024,21:25:13.709,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.10.01__0239__RunCycle__47.imf1,0,0,0
+11/21/2024,21:25:13.710,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.15.01__0241__RunCycle__49.imf1,0,0,0
+11/21/2024,21:25:13.711,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.20.03__0243__RunCycle__51.imf1,0,0,0
+11/21/2024,21:25:13.712,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.25.04__0245__RunCycle__53.imf1,0,0,0
+11/21/2024,21:25:13.713,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.30.06__0247__RunCycle__55.imf1,0,0,0
+11/21/2024,21:25:13.714,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.35.09__0249__RunCycle__57.imf1,0,0,0
+11/21/2024,21:25:13.715,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.40.12__0251__RunCycle__59.imf1,0,0,0
+11/21/2024,21:25:13.716,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.47.23__0253__RunCycle__61.imf1,0,0,0
+11/21/2024,21:25:13.716,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.52.25__0255__RunCycle__63.imf1,0,0,0
+11/21/2024,21:25:13.717,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.57.26__0257__RunCycle__65.imf1,0,0,0
+11/21/2024,21:25:13.718,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.02.29__0259__RunCycle__67.imf1,0,0,0
+11/21/2024,21:25:13.719,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.07.30__0261__RunCycle__69.imf1,0,0,0
+11/21/2024,21:25:13.720,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.12.32__0263__RunCycle__71.imf1,0,0,0
+11/21/2024,21:25:13.721,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.17.34__0265__RunCycle__73.imf1,0,0,0
+11/21/2024,21:25:13.721,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.22.36__0267__RunCycle__75.imf1,0,0,0
+11/21/2024,21:25:13.722,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.25.13__0269__RunChemistry.imf1,0,0,0
+11/21/2024,21:25:13.723,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-01.07.43__0190__Run.imf1,0,0,0
+11/21/2024,21:25:13.724,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.17.12__0194__RunCycle__2.imf1,0,0,0
+11/21/2024,21:25:13.725,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.27.20__0198__RunCycle__6.imf1,0,0,0
+11/21/2024,21:25:13.725,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.37.20__0202__RunCycle__10.imf1,0,0,0
+11/21/2024,21:25:13.726,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.47.20__0206__RunCycle__14.imf1,0,0,0
+11/21/2024,21:25:13.727,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.57.20__0210__RunCycle__18.imf1,0,0,0
+11/21/2024,21:25:13.728,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.07.21__0214__RunCycle__22.imf1,0,0,0
+11/21/2024,21:25:13.729,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.17.22__0218__RunCycle__26.imf1,0,0,0
+11/21/2024,21:25:13.730,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.27.23__0222__RunCycle__30.imf1,0,0,0
+11/21/2024,21:25:13.730,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.37.24__0226__RunCycle__34.imf1,0,0,0
+11/21/2024,21:25:13.731,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.47.25__0230__RunCycle__38.imf1,0,0,0
+11/21/2024,21:25:13.731,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.57.27__0234__RunCycle__42.imf1,0,0,0
+11/21/2024,21:25:13.733,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.07.29__0238__RunCycle__46.imf1,0,0,0
+11/21/2024,21:25:13.734,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.17.32__0242__RunCycle__50.imf1,0,0,0
+11/21/2024,21:25:13.734,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.27.34__0246__RunCycle__54.imf1,0,0,0
+11/21/2024,21:25:13.735,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.37.40__0250__RunCycle__58.imf1,0,0,0
+11/21/2024,21:25:13.736,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.49.54__0254__RunCycle__62.imf1,0,0,0
+11/21/2024,21:25:13.737,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.59.57__0258__RunCycle__66.imf1,0,0,0
+11/21/2024,21:25:13.738,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.10.01__0262__RunCycle__70.imf1,0,0,0
+11/21/2024,21:25:13.738,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.20.05__0266__RunCycle__74.imf1,0,0,0
+11/21/2024,21:25:13.739,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\tdyu4dpf.tmp,0,0,0
+11/21/2024,21:25:13.740,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.08.12__0192__RunChemistry.imf1,0,0,0
+11/21/2024,21:25:13.741,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.32.21__0200__RunCycle__8.imf1,0,0,0
+11/21/2024,21:25:13.741,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.52.21__0208__RunCycle__16.imf1,0,0,0
+11/21/2024,21:25:13.742,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.12.22__0216__RunCycle__24.imf1,0,0,0
+11/21/2024,21:25:13.743,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.32.24__0224__RunCycle__32.imf1,0,0,0
+11/21/2024,21:25:13.744,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.52.27__0232__RunCycle__40.imf1,0,0,0
+11/21/2024,21:25:13.744,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.12.31__0240__RunCycle__48.imf1,0,0,0
+11/21/2024,21:25:13.745,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.32.37__0248__RunCycle__56.imf1,0,0,0
+11/21/2024,21:25:13.746,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.54.56__0256__RunCycle__64.imf1,0,0,0
+11/21/2024,21:25:13.747,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.15.03__0264__RunCycle__72.imf1,0,0,0
+11/21/2024,21:25:13.747,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.22.20__0196__RunCycle__4.imf1,0,0,0
+11/21/2024,21:25:13.748,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.02.21__0212__RunCycle__20.imf1,0,0,0
+11/21/2024,21:25:13.749,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.42.25__0228__RunCycle__36.imf1,0,0,0
+11/21/2024,21:25:13.750,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.22.33__0244__RunCycle__52.imf1,0,0,0
+11/21/2024,21:25:13.751,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.04.59__0260__RunCycle__68.imf1,0,0,0
+11/21/2024,21:25:13.752,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.42.21__0204__RunCycle__12.imf1,0,0,0
+11/21/2024,21:25:13.752,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.02.29__0236__RunCycle__44.imf1,0,0,0
+11/21/2024,21:25:13.753,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.25.02__0268__RunCycle__76.imf1,0,0,0
+11/21/2024,21:25:13.754,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.22.23__0220__RunCycle__28.imf1,0,0,0
+11/21/2024,21:25:13.755,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.44.53__0252__RunCycle__60.imf1,0,0,0
+11/21/2024,21:25:13.757,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-01.07.17__0189__RunSetup.imf1,0,0,0
+11/21/2024,21:25:13.758,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.04.57__0191__RunChemistry.imf1,0,0,0
+11/21/2024,21:25:13.759,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.14.41__0193__RunCycle__1.imf1,0,0,0
+11/21/2024,21:25:13.760,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.19.49__0195__RunCycle__3.imf1,0,0,0
+11/21/2024,21:25:13.761,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.24.50__0197__RunCycle__5.imf1,0,0,0
+11/21/2024,21:25:13.761,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.29.51__0199__RunCycle__7.imf1,0,0,0
+11/21/2024,21:25:13.762,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.34.50__0201__RunCycle__9.imf1,0,0,0
+11/21/2024,21:25:13.764,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.39.51__0203__RunCycle__11.imf1,0,0,0
+11/21/2024,21:25:13.764,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.44.50__0205__RunCycle__13.imf1,0,0,0
+11/21/2024,21:25:13.765,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.49.51__0207__RunCycle__15.imf1,0,0,0
+11/21/2024,21:25:13.765,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.54.51__0209__RunCycle__17.imf1,0,0,0
+11/21/2024,21:25:13.766,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.59.51__0211__RunCycle__19.imf1,0,0,0
+11/21/2024,21:25:13.767,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.04.51__0213__RunCycle__21.imf1,0,0,0
+11/21/2024,21:25:13.768,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.09.52__0215__RunCycle__23.imf1,0,0,0
+11/21/2024,21:25:13.769,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.14.52__0217__RunCycle__25.imf1,0,0,0
+11/21/2024,21:25:13.769,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.19.53__0219__RunCycle__27.imf1,0,0,0
+11/21/2024,21:25:13.770,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.24.53__0221__RunCycle__29.imf1,0,0,0
+11/21/2024,21:25:13.771,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.29.54__0223__RunCycle__31.imf1,0,0,0
+11/21/2024,21:25:13.772,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.34.54__0225__RunCycle__33.imf1,0,0,0
+11/21/2024,21:25:13.773,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.39.55__0227__RunCycle__35.imf1,0,0,0
+11/21/2024,21:25:13.773,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.44.55__0229__RunCycle__37.imf1,0,0,0
+11/21/2024,21:25:13.774,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.49.56__0231__RunCycle__39.imf1,0,0,0
+11/21/2024,21:25:13.775,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.54.57__0233__RunCycle__41.imf1,0,0,0
+11/21/2024,21:25:13.776,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.59.58__0235__RunCycle__43.imf1,0,0,0
+11/21/2024,21:25:13.776,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.04.59__0237__RunCycle__45.imf1,0,0,0
+11/21/2024,21:25:13.778,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.10.01__0239__RunCycle__47.imf1,0,0,0
+11/21/2024,21:25:13.778,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.15.01__0241__RunCycle__49.imf1,0,0,0
+11/21/2024,21:25:13.779,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.20.03__0243__RunCycle__51.imf1,0,0,0
+11/21/2024,21:25:13.779,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.25.04__0245__RunCycle__53.imf1,0,0,0
+11/21/2024,21:25:13.780,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.30.06__0247__RunCycle__55.imf1,0,0,0
+11/21/2024,21:25:13.781,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.35.09__0249__RunCycle__57.imf1,0,0,0
+11/21/2024,21:25:13.782,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.40.12__0251__RunCycle__59.imf1,0,0,0
+11/21/2024,21:25:13.782,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.47.23__0253__RunCycle__61.imf1,0,0,0
+11/21/2024,21:25:13.783,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.52.25__0255__RunCycle__63.imf1,0,0,0
+11/21/2024,21:25:13.784,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.57.26__0257__RunCycle__65.imf1,0,0,0
+11/21/2024,21:25:13.785,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.02.29__0259__RunCycle__67.imf1,0,0,0
+11/21/2024,21:25:13.785,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.07.30__0261__RunCycle__69.imf1,0,0,0
+11/21/2024,21:25:13.786,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.12.32__0263__RunCycle__71.imf1,0,0,0
+11/21/2024,21:25:13.787,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.17.34__0265__RunCycle__73.imf1,0,0,0
+11/21/2024,21:25:13.787,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.22.36__0267__RunCycle__75.imf1,0,0,0
+11/21/2024,21:25:13.788,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.25.13__0269__RunChemistry.imf1,0,0,0
+11/21/2024,21:25:13.789,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-01.07.43__0190__Run.imf1,0,0,0
+11/21/2024,21:25:13.790,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.17.12__0194__RunCycle__2.imf1,0,0,0
+11/21/2024,21:25:13.791,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.27.20__0198__RunCycle__6.imf1,0,0,0
+11/21/2024,21:25:13.791,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.37.20__0202__RunCycle__10.imf1,0,0,0
+11/21/2024,21:25:13.792,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.47.20__0206__RunCycle__14.imf1,0,0,0
+11/21/2024,21:25:13.793,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.57.20__0210__RunCycle__18.imf1,0,0,0
+11/21/2024,21:25:13.794,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.07.21__0214__RunCycle__22.imf1,0,0,0
+11/21/2024,21:25:13.795,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.17.22__0218__RunCycle__26.imf1,0,0,0
+11/21/2024,21:25:13.795,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.27.23__0222__RunCycle__30.imf1,0,0,0
+11/21/2024,21:25:13.796,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.37.24__0226__RunCycle__34.imf1,0,0,0
+11/21/2024,21:25:13.797,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.47.25__0230__RunCycle__38.imf1,0,0,0
+11/21/2024,21:25:13.797,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.57.27__0234__RunCycle__42.imf1,0,0,0
+11/21/2024,21:25:13.798,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.07.29__0238__RunCycle__46.imf1,0,0,0
+11/21/2024,21:25:13.799,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.17.32__0242__RunCycle__50.imf1,0,0,0
+11/21/2024,21:25:13.800,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.27.34__0246__RunCycle__54.imf1,0,0,0
+11/21/2024,21:25:13.801,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.37.40__0250__RunCycle__58.imf1,0,0,0
+11/21/2024,21:25:13.801,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.49.54__0254__RunCycle__62.imf1,0,0,0
+11/21/2024,21:25:13.802,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.59.57__0258__RunCycle__66.imf1,0,0,0
+11/21/2024,21:25:13.803,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.10.01__0262__RunCycle__70.imf1,0,0,0
+11/21/2024,21:25:13.803,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.20.05__0266__RunCycle__74.imf1,0,0,0
+11/21/2024,21:25:13.804,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\tdyu4dpf.tmp,0,0,0
+11/21/2024,21:25:13.805,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.08.12__0192__RunChemistry.imf1,0,0,0
+11/21/2024,21:25:13.805,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.32.21__0200__RunCycle__8.imf1,0,0,0
+11/21/2024,21:25:13.806,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.52.21__0208__RunCycle__16.imf1,0,0,0
+11/21/2024,21:25:13.807,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.12.22__0216__RunCycle__24.imf1,0,0,0
+11/21/2024,21:25:13.807,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.32.24__0224__RunCycle__32.imf1,0,0,0
+11/21/2024,21:25:13.809,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.52.27__0232__RunCycle__40.imf1,0,0,0
+11/21/2024,21:25:13.809,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.12.31__0240__RunCycle__48.imf1,0,0,0
+11/21/2024,21:25:13.810,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.32.37__0248__RunCycle__56.imf1,0,0,0
+11/21/2024,21:25:13.811,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.54.56__0256__RunCycle__64.imf1,0,0,0
+11/21/2024,21:25:13.812,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.15.03__0264__RunCycle__72.imf1,0,0,0
+11/21/2024,21:25:13.813,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.22.20__0196__RunCycle__4.imf1,0,0,0
+11/21/2024,21:25:13.813,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.02.21__0212__RunCycle__20.imf1,0,0,0
+11/21/2024,21:25:13.814,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.42.25__0228__RunCycle__36.imf1,0,0,0
+11/21/2024,21:25:13.815,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.22.33__0244__RunCycle__52.imf1,0,0,0
+11/21/2024,21:25:13.816,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.04.59__0260__RunCycle__68.imf1,0,0,0
+11/21/2024,21:25:13.816,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-02.42.21__0204__RunCycle__12.imf1,0,0,0
+11/21/2024,21:25:13.817,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.02.29__0236__RunCycle__44.imf1,0,0,0
+11/21/2024,21:25:13.818,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-05.25.02__0268__RunCycle__76.imf1,0,0,0
+11/21/2024,21:25:13.819,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-03.22.23__0220__RunCycle__28.imf1,0,0,0
+11/21/2024,21:25:13.819,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\InstrumentAnalyticsLogs\running__M02607__2024-11-22-04.44.53__0252__RunCycle__60.imf1,0,0,0
+11/21/2024,21:25:13.821,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle10_Log.00.log,0,0,0
+11/21/2024,21:25:13.822,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle11_Log.00.log,0,0,0
+11/21/2024,21:25:13.823,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle12_Log.00.log,0,0,0
+11/21/2024,21:25:13.824,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle13_Log.00.log,0,0,0
+11/21/2024,21:25:13.825,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle14_Log.00.log,0,0,0
+11/21/2024,21:25:13.826,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle15_Log.00.log,0,0,0
+11/21/2024,21:25:13.827,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle16_Log.00.log,0,0,0
+11/21/2024,21:25:13.828,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle17_Log.00.log,0,0,0
+11/21/2024,21:25:13.829,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle18_Log.00.log,0,0,0
+11/21/2024,21:25:13.830,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle19_Log.00.log,0,0,0
+11/21/2024,21:25:13.830,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.00.log,0,0,0
+11/21/2024,21:25:13.833,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.01.xml,0,0,0
+11/21/2024,21:25:13.838,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle20_Log.00.log,0,0,0
+11/21/2024,21:25:13.839,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle21_Log.00.log,0,0,0
+11/21/2024,21:25:13.840,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle22_Log.00.log,0,0,0
+11/21/2024,21:25:13.841,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle23_Log.00.log,0,0,0
+11/21/2024,21:25:13.842,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle24_Log.00.log,0,0,0
+11/21/2024,21:25:13.843,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle25_Log.00.log,0,0,0
+11/21/2024,21:25:13.844,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle26_Log.00.log,0,0,0
+11/21/2024,21:25:13.845,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle27_Log.00.log,0,0,0
+11/21/2024,21:25:13.846,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle28_Log.00.log,0,0,0
+11/21/2024,21:25:13.847,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle29_Log.00.log,0,0,0
+11/21/2024,21:25:13.848,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle2_Log.00.log,0,0,0
+11/21/2024,21:25:13.849,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle30_Log.00.log,0,0,0
+11/21/2024,21:25:13.850,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle31_Log.00.log,0,0,0
+11/21/2024,21:25:13.851,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle32_Log.00.log,0,0,0
+11/21/2024,21:25:13.852,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle33_Log.00.log,0,0,0
+11/21/2024,21:25:13.853,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle34_Log.00.log,0,0,0
+11/21/2024,21:25:13.854,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle35_Log.00.log,0,0,0
+11/21/2024,21:25:13.855,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle36_Log.00.log,0,0,0
+11/21/2024,21:25:13.856,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle37_Log.00.log,0,0,0
+11/21/2024,21:25:13.857,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle38_Log.00.log,0,0,0
+11/21/2024,21:25:13.858,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle39_Log.00.log,0,0,0
+11/21/2024,21:25:13.859,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle3_Log.00.log,0,0,0
+11/21/2024,21:25:13.860,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle40_Log.00.log,0,0,0
+11/21/2024,21:25:13.862,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle41_Log.00.log,0,0,0
+11/21/2024,21:25:13.863,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle42_Log.00.log,0,0,0
+11/21/2024,21:25:13.864,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle43_Log.00.log,0,0,0
+11/21/2024,21:25:13.865,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle44_Log.00.log,0,0,0
+11/21/2024,21:25:13.865,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle45_Log.00.log,0,0,0
+11/21/2024,21:25:13.867,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle46_Log.00.log,0,0,0
+11/21/2024,21:25:13.868,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle47_Log.00.log,0,0,0
+11/21/2024,21:25:13.869,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle48_Log.00.log,0,0,0
+11/21/2024,21:25:13.870,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle49_Log.00.log,0,0,0
+11/21/2024,21:25:13.871,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle4_Log.00.log,0,0,0
+11/21/2024,21:25:13.872,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle50_Log.00.log,0,0,0
+11/21/2024,21:25:13.873,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle51_Log.00.log,0,0,0
+11/21/2024,21:25:13.874,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle52_Log.00.log,0,0,0
+11/21/2024,21:25:13.875,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle53_Log.00.log,0,0,0
+11/21/2024,21:25:13.876,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle54_Log.00.log,0,0,0
+11/21/2024,21:25:13.877,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle55_Log.00.log,0,0,0
+11/21/2024,21:25:13.878,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle56_Log.00.log,0,0,0
+11/21/2024,21:25:13.878,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle57_Log.00.log,0,0,0
+11/21/2024,21:25:13.879,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle58_Log.00.log,0,0,0
+11/21/2024,21:25:13.880,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle59_Log.00.log,0,0,0
+11/21/2024,21:25:13.880,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle5_Log.00.log,0,0,0
+11/21/2024,21:25:13.882,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle60_Log.00.log,0,0,0
+11/21/2024,21:25:13.883,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle61_Log.00.log,0,0,0
+11/21/2024,21:25:13.884,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle62_Log.00.log,0,0,0
+11/21/2024,21:25:13.885,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle63_Log.00.log,0,0,0
+11/21/2024,21:25:13.885,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle64_Log.00.log,0,0,0
+11/21/2024,21:25:13.886,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle65_Log.00.log,0,0,0
+11/21/2024,21:25:13.887,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle66_Log.00.log,0,0,0
+11/21/2024,21:25:13.888,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle67_Log.00.log,0,0,0
+11/21/2024,21:25:13.889,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle68_Log.00.log,0,0,0
+11/21/2024,21:25:13.890,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle69_Log.00.log,0,0,0
+11/21/2024,21:25:13.891,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle6_Log.00.log,0,0,0
+11/21/2024,21:25:13.892,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle70_Log.00.log,0,0,0
+11/21/2024,21:25:13.892,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle71_Log.00.log,0,0,0
+11/21/2024,21:25:13.893,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle72_Log.00.log,0,0,0
+11/21/2024,21:25:13.893,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle73_Log.00.log,0,0,0
+11/21/2024,21:25:13.894,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle74_Log.00.log,0,0,0
+11/21/2024,21:25:13.895,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle75_Log.00.log,0,0,0
+11/21/2024,21:25:13.896,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle76_Log.00.log,0,0,0
+11/21/2024,21:25:13.897,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle7_Log.00.log,0,0,0
+11/21/2024,21:25:13.898,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle8_Log.00.log,0,0,0
+11/21/2024,21:25:13.899,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle9_Log.00.log,0,0,0
+11/21/2024,21:25:13.900,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle10_Log.00.xml,0,0,0
+11/21/2024,21:25:13.901,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle12_Log.00.xml,0,0,0
+11/21/2024,21:25:13.902,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle14_Log.00.xml,0,0,0
+11/21/2024,21:25:13.903,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle16_Log.00.xml,0,0,0
+11/21/2024,21:25:13.904,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle18_Log.00.xml,0,0,0
+11/21/2024,21:25:13.905,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.00.xml,0,0,0
+11/21/2024,21:25:13.909,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle20_Log.00.xml,0,0,0
+11/21/2024,21:25:13.910,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle22_Log.00.xml,0,0,0
+11/21/2024,21:25:13.911,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle24_Log.00.xml,0,0,0
+11/21/2024,21:25:13.911,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle26_Log.00.xml,0,0,0
+11/21/2024,21:25:13.912,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle28_Log.00.xml,0,0,0
+11/21/2024,21:25:13.913,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle2_Log.00.xml,0,0,0
+11/21/2024,21:25:13.915,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle31_Log.00.xml,0,0,0
+11/21/2024,21:25:13.915,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle33_Log.00.xml,0,0,0
+11/21/2024,21:25:13.916,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle35_Log.00.xml,0,0,0
+11/21/2024,21:25:13.918,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle37_Log.00.xml,0,0,0
+11/21/2024,21:25:13.919,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle39_Log.00.xml,0,0,0
+11/21/2024,21:25:13.920,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle40_Log.00.xml,0,0,0
+11/21/2024,21:25:13.921,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle42_Log.00.xml,0,0,0
+11/21/2024,21:25:13.922,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle44_Log.00.xml,0,0,0
+11/21/2024,21:25:13.923,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle46_Log.00.xml,0,0,0
+11/21/2024,21:25:13.924,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle48_Log.00.xml,0,0,0
+11/21/2024,21:25:13.926,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle4_Log.00.xml,0,0,0
+11/21/2024,21:25:13.927,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle51_Log.00.xml,0,0,0
+11/21/2024,21:25:13.928,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle53_Log.00.xml,0,0,0
+11/21/2024,21:25:13.929,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle55_Log.00.xml,0,0,0
+11/21/2024,21:25:13.930,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle57_Log.00.xml,0,0,0
+11/21/2024,21:25:13.931,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle59_Log.00.xml,0,0,0
+11/21/2024,21:25:13.932,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle60_Log.00.xml,0,0,0
+11/21/2024,21:25:13.933,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle62_Log.00.xml,0,0,0
+11/21/2024,21:25:13.935,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle64_Log.00.xml,0,0,0
+11/21/2024,21:25:13.935,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle66_Log.00.xml,0,0,0
+11/21/2024,21:25:13.936,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle68_Log.00.xml,0,0,0
+11/21/2024,21:25:13.938,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle6_Log.00.xml,0,0,0
+11/21/2024,21:25:13.939,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle71_Log.00.xml,0,0,0
+11/21/2024,21:25:13.940,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle73_Log.00.xml,0,0,0
+11/21/2024,21:25:13.942,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle75_Log.00.xml,0,0,0
+11/21/2024,21:25:13.943,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle7_Log.00.xml,0,0,0
+11/21/2024,21:25:13.944,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle9_Log.00.xml,0,0,0
+11/21/2024,21:25:13.944,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle11_Log.00.xml,0,0,0
+11/21/2024,21:25:13.945,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle15_Log.00.xml,0,0,0
+11/21/2024,21:25:13.947,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle19_Log.00.xml,0,0,0
+11/21/2024,21:25:13.947,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle21_Log.00.xml,0,0,0
+11/21/2024,21:25:13.948,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle25_Log.00.xml,0,0,0
+11/21/2024,21:25:13.949,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle29_Log.00.xml,0,0,0
+11/21/2024,21:25:13.951,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle32_Log.00.xml,0,0,0
+11/21/2024,21:25:13.952,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle36_Log.00.xml,0,0,0
+11/21/2024,21:25:13.953,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle3_Log.00.xml,0,0,0
+11/21/2024,21:25:13.955,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle43_Log.00.xml,0,0,0
+11/21/2024,21:25:13.955,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle47_Log.00.xml,0,0,0
+11/21/2024,21:25:13.957,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle50_Log.00.xml,0,0,0
+11/21/2024,21:25:13.958,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle54_Log.00.xml,0,0,0
+11/21/2024,21:25:13.959,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle58_Log.00.xml,0,0,0
+11/21/2024,21:25:13.960,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle61_Log.00.xml,0,0,0
+11/21/2024,21:25:13.961,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle65_Log.00.xml,0,0,0
+11/21/2024,21:25:13.962,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle69_Log.00.xml,0,0,0
+11/21/2024,21:25:13.964,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle72_Log.00.xml,0,0,0
+11/21/2024,21:25:13.965,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle76_Log.00.xml,0,0,0
+11/21/2024,21:25:13.966,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle13_Log.00.xml,0,0,0
+11/21/2024,21:25:13.967,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.02.xml,0,0,0
+11/21/2024,21:25:13.971,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle27_Log.00.xml,0,0,0
+11/21/2024,21:25:13.972,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle34_Log.00.xml,0,0,0
+11/21/2024,21:25:13.973,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle41_Log.00.xml,0,0,0
+11/21/2024,21:25:13.975,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle49_Log.00.xml,0,0,0
+11/21/2024,21:25:13.976,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle56_Log.00.xml,0,0,0
+11/21/2024,21:25:13.977,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle63_Log.00.xml,0,0,0
+11/21/2024,21:25:13.978,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle70_Log.00.xml,0,0,0
+11/21/2024,21:25:13.980,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle8_Log.00.xml,0,0,0
+11/21/2024,21:25:13.981,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle17_Log.00.xml,0,0,0
+11/21/2024,21:25:13.981,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle30_Log.00.xml,0,0,0
+11/21/2024,21:25:13.982,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle45_Log.00.xml,0,0,0
+11/21/2024,21:25:13.984,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle5_Log.00.xml,0,0,0
+11/21/2024,21:25:13.985,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle74_Log.00.xml,0,0,0
+11/21/2024,21:25:13.986,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle23_Log.00.xml,0,0,0
+11/21/2024,21:25:13.988,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle52_Log.00.xml,0,0,0
+11/21/2024,21:25:13.988,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle38_Log.00.xml,0,0,0
+11/21/2024,21:25:13.990,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle67_Log.00.xml,0,0,0
+11/21/2024,21:25:13.993,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle10_Log.00.log,0,0,0
+11/21/2024,21:25:13.993,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle11_Log.00.log,0,0,0
+11/21/2024,21:25:13.995,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle12_Log.00.log,0,0,0
+11/21/2024,21:25:13.996,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle13_Log.00.log,0,0,0
+11/21/2024,21:25:13.996,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle14_Log.00.log,0,0,0
+11/21/2024,21:25:13.998,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle15_Log.00.log,0,0,0
+11/21/2024,21:25:13.998,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle16_Log.00.log,0,0,0
+11/21/2024,21:25:13.999,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle17_Log.00.log,0,0,0
+11/21/2024,21:25:14.000,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle18_Log.00.log,0,0,0
+11/21/2024,21:25:14.001,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle19_Log.00.log,0,0,0
+11/21/2024,21:25:14.001,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.00.log,0,0,0
+11/21/2024,21:25:14.003,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.01.xml,0,0,0
+11/21/2024,21:25:14.008,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle20_Log.00.log,0,0,0
+11/21/2024,21:25:14.009,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle21_Log.00.log,0,0,0
+11/21/2024,21:25:14.010,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle22_Log.00.log,0,0,0
+11/21/2024,21:25:14.011,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle23_Log.00.log,0,0,0
+11/21/2024,21:25:14.011,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle24_Log.00.log,0,0,0
+11/21/2024,21:25:14.012,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle25_Log.00.log,0,0,0
+11/21/2024,21:25:14.013,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle26_Log.00.log,0,0,0
+11/21/2024,21:25:14.014,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle27_Log.00.log,0,0,0
+11/21/2024,21:25:14.015,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle28_Log.00.log,0,0,0
+11/21/2024,21:25:14.015,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle29_Log.00.log,0,0,0
+11/21/2024,21:25:14.016,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle2_Log.00.log,0,0,0
+11/21/2024,21:25:14.017,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle30_Log.00.log,0,0,0
+11/21/2024,21:25:14.018,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle31_Log.00.log,0,0,0
+11/21/2024,21:25:14.018,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle32_Log.00.log,0,0,0
+11/21/2024,21:25:14.019,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle33_Log.00.log,0,0,0
+11/21/2024,21:25:14.020,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle34_Log.00.log,0,0,0
+11/21/2024,21:25:14.021,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle35_Log.00.log,0,0,0
+11/21/2024,21:25:14.022,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle36_Log.00.log,0,0,0
+11/21/2024,21:25:14.023,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle37_Log.00.log,0,0,0
+11/21/2024,21:25:14.023,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle38_Log.00.log,0,0,0
+11/21/2024,21:25:14.024,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle39_Log.00.log,0,0,0
+11/21/2024,21:25:14.025,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle3_Log.00.log,0,0,0
+11/21/2024,21:25:14.026,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle40_Log.00.log,0,0,0
+11/21/2024,21:25:14.027,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle41_Log.00.log,0,0,0
+11/21/2024,21:25:14.028,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle42_Log.00.log,0,0,0
+11/21/2024,21:25:14.029,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle43_Log.00.log,0,0,0
+11/21/2024,21:25:14.030,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle44_Log.00.log,0,0,0
+11/21/2024,21:25:14.030,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle45_Log.00.log,0,0,0
+11/21/2024,21:25:14.031,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle46_Log.00.log,0,0,0
+11/21/2024,21:25:14.032,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle47_Log.00.log,0,0,0
+11/21/2024,21:25:14.033,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle48_Log.00.log,0,0,0
+11/21/2024,21:25:14.034,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle49_Log.00.log,0,0,0
+11/21/2024,21:25:14.034,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle4_Log.00.log,0,0,0
+11/21/2024,21:25:14.035,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle50_Log.00.log,0,0,0
+11/21/2024,21:25:14.036,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle51_Log.00.log,0,0,0
+11/21/2024,21:25:14.037,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle52_Log.00.log,0,0,0
+11/21/2024,21:25:14.037,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle53_Log.00.log,0,0,0
+11/21/2024,21:25:14.038,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle54_Log.00.log,0,0,0
+11/21/2024,21:25:14.039,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle55_Log.00.log,0,0,0
+11/21/2024,21:25:14.040,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle56_Log.00.log,0,0,0
+11/21/2024,21:25:14.041,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle57_Log.00.log,0,0,0
+11/21/2024,21:25:14.042,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle58_Log.00.log,0,0,0
+11/21/2024,21:25:14.043,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle59_Log.00.log,0,0,0
+11/21/2024,21:25:14.044,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle5_Log.00.log,0,0,0
+11/21/2024,21:25:14.044,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle60_Log.00.log,0,0,0
+11/21/2024,21:25:14.045,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle61_Log.00.log,0,0,0
+11/21/2024,21:25:14.046,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle62_Log.00.log,0,0,0
+11/21/2024,21:25:14.046,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle63_Log.00.log,0,0,0
+11/21/2024,21:25:14.047,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle64_Log.00.log,0,0,0
+11/21/2024,21:25:14.048,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle65_Log.00.log,0,0,0
+11/21/2024,21:25:14.049,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle66_Log.00.log,0,0,0
+11/21/2024,21:25:14.050,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle67_Log.00.log,0,0,0
+11/21/2024,21:25:14.051,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle68_Log.00.log,0,0,0
+11/21/2024,21:25:14.052,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle69_Log.00.log,0,0,0
+11/21/2024,21:25:14.053,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle6_Log.00.log,0,0,0
+11/21/2024,21:25:14.053,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle70_Log.00.log,0,0,0
+11/21/2024,21:25:14.054,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle71_Log.00.log,0,0,0
+11/21/2024,21:25:14.055,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle72_Log.00.log,0,0,0
+11/21/2024,21:25:14.056,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle73_Log.00.log,0,0,0
+11/21/2024,21:25:14.056,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle74_Log.00.log,0,0,0
+11/21/2024,21:25:14.057,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle75_Log.00.log,0,0,0
+11/21/2024,21:25:14.058,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle76_Log.00.log,0,0,0
+11/21/2024,21:25:14.059,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle7_Log.00.log,0,0,0
+11/21/2024,21:25:14.060,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle8_Log.00.log,0,0,0
+11/21/2024,21:25:14.061,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle9_Log.00.log,0,0,0
+11/21/2024,21:25:14.062,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle10_Log.00.xml,0,0,0
+11/21/2024,21:25:14.063,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle12_Log.00.xml,0,0,0
+11/21/2024,21:25:14.064,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle14_Log.00.xml,0,0,0
+11/21/2024,21:25:14.065,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle16_Log.00.xml,0,0,0
+11/21/2024,21:25:14.065,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle18_Log.00.xml,0,0,0
+11/21/2024,21:25:14.066,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.00.xml,0,0,0
+11/21/2024,21:25:14.069,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle20_Log.00.xml,0,0,0
+11/21/2024,21:25:14.070,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle22_Log.00.xml,0,0,0
+11/21/2024,21:25:14.071,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle24_Log.00.xml,0,0,0
+11/21/2024,21:25:14.072,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle26_Log.00.xml,0,0,0
+11/21/2024,21:25:14.073,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle28_Log.00.xml,0,0,0
+11/21/2024,21:25:14.074,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle2_Log.00.xml,0,0,0
+11/21/2024,21:25:14.076,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle31_Log.00.xml,0,0,0
+11/21/2024,21:25:14.077,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle33_Log.00.xml,0,0,0
+11/21/2024,21:25:14.078,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle35_Log.00.xml,0,0,0
+11/21/2024,21:25:14.079,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle37_Log.00.xml,0,0,0
+11/21/2024,21:25:14.080,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle39_Log.00.xml,0,0,0
+11/21/2024,21:25:14.081,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle40_Log.00.xml,0,0,0
+11/21/2024,21:25:14.082,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle42_Log.00.xml,0,0,0
+11/21/2024,21:25:14.083,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle44_Log.00.xml,0,0,0
+11/21/2024,21:25:14.084,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle46_Log.00.xml,0,0,0
+11/21/2024,21:25:14.085,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle48_Log.00.xml,0,0,0
+11/21/2024,21:25:14.086,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle4_Log.00.xml,0,0,0
+11/21/2024,21:25:14.087,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle51_Log.00.xml,0,0,0
+11/21/2024,21:25:14.088,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle53_Log.00.xml,0,0,0
+11/21/2024,21:25:14.089,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle55_Log.00.xml,0,0,0
+11/21/2024,21:25:14.091,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle57_Log.00.xml,0,0,0
+11/21/2024,21:25:14.092,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle59_Log.00.xml,0,0,0
+11/21/2024,21:25:14.093,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle60_Log.00.xml,0,0,0
+11/21/2024,21:25:14.094,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle62_Log.00.xml,0,0,0
+11/21/2024,21:25:14.095,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle64_Log.00.xml,0,0,0
+11/21/2024,21:25:14.096,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle66_Log.00.xml,0,0,0
+11/21/2024,21:25:14.097,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle68_Log.00.xml,0,0,0
+11/21/2024,21:25:14.098,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle6_Log.00.xml,0,0,0
+11/21/2024,21:25:14.099,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle71_Log.00.xml,0,0,0
+11/21/2024,21:25:14.100,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle73_Log.00.xml,0,0,0
+11/21/2024,21:25:14.101,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle75_Log.00.xml,0,0,0
+11/21/2024,21:25:14.102,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle7_Log.00.xml,0,0,0
+11/21/2024,21:25:14.103,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle9_Log.00.xml,0,0,0
+11/21/2024,21:25:14.104,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle11_Log.00.xml,0,0,0
+11/21/2024,21:25:14.105,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle15_Log.00.xml,0,0,0
+11/21/2024,21:25:14.106,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle19_Log.00.xml,0,0,0
+11/21/2024,21:25:14.107,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle21_Log.00.xml,0,0,0
+11/21/2024,21:25:14.108,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle25_Log.00.xml,0,0,0
+11/21/2024,21:25:14.109,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle29_Log.00.xml,0,0,0
+11/21/2024,21:25:14.110,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle32_Log.00.xml,0,0,0
+11/21/2024,21:25:14.112,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle36_Log.00.xml,0,0,0
+11/21/2024,21:25:14.113,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle3_Log.00.xml,0,0,0
+11/21/2024,21:25:14.115,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle43_Log.00.xml,0,0,0
+11/21/2024,21:25:14.115,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle47_Log.00.xml,0,0,0
+11/21/2024,21:25:14.116,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle50_Log.00.xml,0,0,0
+11/21/2024,21:25:14.117,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle54_Log.00.xml,0,0,0
+11/21/2024,21:25:14.119,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle58_Log.00.xml,0,0,0
+11/21/2024,21:25:14.120,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle61_Log.00.xml,0,0,0
+11/21/2024,21:25:14.121,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle65_Log.00.xml,0,0,0
+11/21/2024,21:25:14.122,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle69_Log.00.xml,0,0,0
+11/21/2024,21:25:14.123,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle72_Log.00.xml,0,0,0
+11/21/2024,21:25:14.124,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle76_Log.00.xml,0,0,0
+11/21/2024,21:25:14.125,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle13_Log.00.xml,0,0,0
+11/21/2024,21:25:14.126,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle1_Log.02.xml,0,0,0
+11/21/2024,21:25:14.130,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle27_Log.00.xml,0,0,0
+11/21/2024,21:25:14.132,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle34_Log.00.xml,0,0,0
+11/21/2024,21:25:14.133,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle41_Log.00.xml,0,0,0
+11/21/2024,21:25:14.134,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle49_Log.00.xml,0,0,0
+11/21/2024,21:25:14.134,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle56_Log.00.xml,0,0,0
+11/21/2024,21:25:14.135,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle63_Log.00.xml,0,0,0
+11/21/2024,21:25:14.136,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle70_Log.00.xml,0,0,0
+11/21/2024,21:25:14.138,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle8_Log.00.xml,0,0,0
+11/21/2024,21:25:14.139,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle17_Log.00.xml,0,0,0
+11/21/2024,21:25:14.141,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle30_Log.00.xml,0,0,0
+11/21/2024,21:25:14.142,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle45_Log.00.xml,0,0,0
+11/21/2024,21:25:14.144,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle5_Log.00.xml,0,0,0
+11/21/2024,21:25:14.145,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle74_Log.00.xml,0,0,0
+11/21/2024,21:25:14.146,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle23_Log.00.xml,0,0,0
+11/21/2024,21:25:14.147,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle52_Log.00.xml,0,0,0
+11/21/2024,21:25:14.149,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle38_Log.00.xml,0,0,0
+11/21/2024,21:25:14.150,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Logs\241121_M02607_0396_000000000-DR6DN_Cycle67_Log.00.xml,0,0,0
+11/21/2024,21:25:14.152,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Recipe\MS3565575-300V2.xml,0,0,0
+11/21/2024,21:25:14.153,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Recipe\RunState.xml,0,0,0
+11/21/2024,21:25:14.155,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Recipe\MS3565575-300V2.xml,0,0,0
+11/21/2024,21:25:14.156,0,0,0,Copying D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Recipe\RunState.xml,0,0,0
+11/21/2024,21:25:14.158,0,0,0,Cleaning up local files,0,0,0
+11/21/2024,21:25:14.160,0,0,0,Cleaning up empty directories,0,0,0

@@ -1,0 +1,454 @@
+11/21/2024,21:25:15.295,0,0,0,Delete thread starting,0,0,0
+11/21/2024,21:35:01.506,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:35:01.508,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:35:01.510,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:35:01.512,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:35:01.514,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:35:06.517,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:35:06.519,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:35:06.521,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:35:06.523,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:35:06.525,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C77.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:35:23.531,0,0,0,The low frequency delete queue has 2 items,0,0,0
+11/21/2024,21:35:23.531,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:35:55.541,0,0,0,The low frequency delete queue has 2 items,0,0,0
+11/21/2024,21:35:55.541,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:36:27.551,0,0,0,The low frequency delete queue has 2 items,0,0,0
+11/21/2024,21:36:27.551,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:36:59.562,0,0,0,The low frequency delete queue has 2 items,0,0,0
+11/21/2024,21:36:59.562,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:37:31.575,0,0,0,The low frequency delete queue has 2 items,0,0,0
+11/21/2024,21:37:31.575,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:37:34.576,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:37:34.579,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:37:34.581,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:37:34.583,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:37:34.585,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:37:39.587,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:37:39.590,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:37:39.592,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:37:39.594,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:37:39.595,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C78.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:38:03.605,0,0,0,The low frequency delete queue has 4 items,0,0,0
+11/21/2024,21:38:03.605,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:38:35.618,0,0,0,The low frequency delete queue has 4 items,0,0,0
+11/21/2024,21:38:35.618,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:39:07.628,0,0,0,The low frequency delete queue has 4 items,0,0,0
+11/21/2024,21:39:07.628,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:39:39.638,0,0,0,The low frequency delete queue has 4 items,0,0,0
+11/21/2024,21:39:39.638,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:40:07.651,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:40:07.653,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:40:07.655,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:40:07.658,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:40:07.660,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:40:11.662,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:40:11.664,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:40:11.666,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:40:11.668,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:40:11.671,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C79.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:40:11.671,0,0,0,The low frequency delete queue has 6 items,0,0,0
+11/21/2024,21:40:11.671,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:40:43.685,0,0,0,The low frequency delete queue has 6 items,0,0,0
+11/21/2024,21:40:43.686,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:41:15.695,0,0,0,The low frequency delete queue has 6 items,0,0,0
+11/21/2024,21:41:15.696,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:41:47.707,0,0,0,The low frequency delete queue has 6 items,0,0,0
+11/21/2024,21:41:47.707,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:42:19.719,0,0,0,The low frequency delete queue has 6 items,0,0,0
+11/21/2024,21:42:19.719,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:42:40.729,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:42:40.731,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:42:40.733,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:42:40.735,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:42:40.737,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:42:44.741,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:42:44.743,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:42:44.745,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:42:44.747,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:42:44.749,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C80.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:42:51.754,0,0,0,The low frequency delete queue has 8 items,0,0,0
+11/21/2024,21:42:51.754,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:43:23.766,0,0,0,The low frequency delete queue has 8 items,0,0,0
+11/21/2024,21:43:23.766,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:43:55.777,0,0,0,The low frequency delete queue has 8 items,0,0,0
+11/21/2024,21:43:55.777,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:44:27.789,0,0,0,The low frequency delete queue has 8 items,0,0,0
+11/21/2024,21:44:27.789,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:44:59.801,0,0,0,The low frequency delete queue has 8 items,0,0,0
+11/21/2024,21:44:59.801,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:45:12.807,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:45:12.809,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:45:12.811,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:45:12.813,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:45:12.815,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:45:17.818,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:45:17.820,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:45:17.822,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:45:17.824,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:45:17.826,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C81.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:45:31.830,0,0,0,The low frequency delete queue has 10 items,0,0,0
+11/21/2024,21:45:31.830,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:46:03.841,0,0,0,The low frequency delete queue has 10 items,0,0,0
+11/21/2024,21:46:03.841,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:46:35.852,0,0,0,The low frequency delete queue has 10 items,0,0,0
+11/21/2024,21:46:35.852,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:47:07.865,0,0,0,The low frequency delete queue has 10 items,0,0,0
+11/21/2024,21:47:07.865,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:47:39.876,0,0,0,The low frequency delete queue has 10 items,0,0,0
+11/21/2024,21:47:39.877,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:47:44.878,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:47:44.880,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:47:44.882,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:47:44.884,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:47:44.886,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:47:48.887,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:47:48.889,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:47:48.891,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:47:48.893,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:47:48.895,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C82.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:48:11.905,0,0,0,The low frequency delete queue has 12 items,0,0,0
+11/21/2024,21:48:11.905,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:48:43.915,0,0,0,The low frequency delete queue has 12 items,0,0,0
+11/21/2024,21:48:43.915,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:49:15.926,0,0,0,The low frequency delete queue has 12 items,0,0,0
+11/21/2024,21:49:15.926,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:49:47.938,0,0,0,The low frequency delete queue has 12 items,0,0,0
+11/21/2024,21:49:47.938,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:50:16.951,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:50:16.953,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:50:16.955,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:50:16.957,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:50:16.959,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:50:19.960,0,0,0,The low frequency delete queue has 13 items,0,0,0
+11/21/2024,21:50:19.960,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:50:20.961,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:50:20.963,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:50:20.965,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:50:20.967,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:50:20.970,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C83.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:50:51.982,0,0,0,The low frequency delete queue has 14 items,0,0,0
+11/21/2024,21:50:51.982,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:51:23.997,0,0,0,The low frequency delete queue has 14 items,0,0,0
+11/21/2024,21:51:23.997,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:51:56.009,0,0,0,The low frequency delete queue has 14 items,0,0,0
+11/21/2024,21:51:56.009,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:52:28.021,0,0,0,The low frequency delete queue has 14 items,0,0,0
+11/21/2024,21:52:28.021,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:52:50.031,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:52:50.033,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:52:50.035,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:52:50.037,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:52:50.039,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:52:53.041,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:52:53.043,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:52:53.045,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:52:53.047,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:52:53.049,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C84.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:53:00.052,0,0,0,The low frequency delete queue has 16 items,0,0,0
+11/21/2024,21:53:00.052,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:53:32.063,0,0,0,The low frequency delete queue has 16 items,0,0,0
+11/21/2024,21:53:32.063,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:54:04.075,0,0,0,The low frequency delete queue has 16 items,0,0,0
+11/21/2024,21:54:04.075,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:54:36.089,0,0,0,The low frequency delete queue has 16 items,0,0,0
+11/21/2024,21:54:36.089,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:55:08.102,0,0,0,The low frequency delete queue has 16 items,0,0,0
+11/21/2024,21:55:08.102,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:55:21.108,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:55:21.110,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:55:21.112,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:55:21.114,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:55:21.116,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:55:25.119,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:55:25.121,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:55:25.123,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:55:25.125,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:55:25.127,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C85.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:55:40.136,0,0,0,The low frequency delete queue has 18 items,0,0,0
+11/21/2024,21:55:40.136,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:56:12.149,0,0,0,The low frequency delete queue has 18 items,0,0,0
+11/21/2024,21:56:12.150,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:56:44.162,0,0,0,The low frequency delete queue has 18 items,0,0,0
+11/21/2024,21:56:44.162,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:57:16.175,0,0,0,The low frequency delete queue has 18 items,0,0,0
+11/21/2024,21:57:16.175,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:57:48.186,0,0,0,The low frequency delete queue has 18 items,0,0,0
+11/21/2024,21:57:48.186,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:57:53.189,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:57:53.191,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1101_a.tif,0,0,0
+11/21/2024,21:57:53.193,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1101_c.tif,0,0,0
+11/21/2024,21:57:53.195,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1101_g.tif,0,0,0
+11/21/2024,21:57:53.197,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1101_t.tif,0,0,0
+11/21/2024,21:57:57.200,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,21:57:57.202,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1102_a.tif,0,0,0
+11/21/2024,21:57:57.204,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1102_c.tif,0,0,0
+11/21/2024,21:57:57.206,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1102_g.tif,0,0,0
+11/21/2024,21:57:57.208,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C86.1\s_1_1102_t.tif,0,0,0
+11/21/2024,21:58:20.217,0,0,0,The low frequency delete queue has 20 items,0,0,0
+11/21/2024,21:58:20.217,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:58:52.227,0,0,0,The low frequency delete queue has 20 items,0,0,0
+11/21/2024,21:58:52.227,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:59:24.239,0,0,0,The low frequency delete queue has 20 items,0,0,0
+11/21/2024,21:59:24.239,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,21:59:56.250,0,0,0,The low frequency delete queue has 20 items,0,0,0
+11/21/2024,21:59:56.250,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:00:24.263,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:00:24.265,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:00:24.267,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:00:24.269,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:00:24.271,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:00:28.272,0,0,0,The low frequency delete queue has 21 items,0,0,0
+11/21/2024,22:00:28.272,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:00:29.273,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:00:29.275,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:00:29.277,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:00:29.279,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:00:29.281,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C87.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:01:00.294,0,0,0,The low frequency delete queue has 22 items,0,0,0
+11/21/2024,22:01:00.294,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:01:32.306,0,0,0,The low frequency delete queue has 22 items,0,0,0
+11/21/2024,22:01:32.307,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:02:04.317,0,0,0,The low frequency delete queue has 22 items,0,0,0
+11/21/2024,22:02:04.317,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:02:36.329,0,0,0,The low frequency delete queue has 22 items,0,0,0
+11/21/2024,22:02:36.329,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:02:57.337,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:02:57.339,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:02:57.341,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:02:57.343,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:02:57.345,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:03:01.347,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:03:01.349,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:03:01.351,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:03:01.353,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:03:01.355,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C88.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:03:08.360,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:08.360,0,0,0,The low frequency delete queue has 24 items,0,0,0
+11/21/2024,22:03:08.360,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:03:09.361,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:10.362,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:12.362,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:13.364,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:14.365,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:15.366,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:16.366,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:18.368,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:19.369,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:20.370,0,0,0,Processing 2 items in delete queue,0,0,0
+11/21/2024,22:03:40.379,0,0,0,The low frequency delete queue has 44 items,0,0,0
+11/21/2024,22:03:40.379,0,0,0,First item on LFDQ is Del File Spec cycle=77 ext=cif ,0,0,0
+11/21/2024,22:03:40.379,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.381,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.381,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.382,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.382,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.382,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.383,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.383,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.383,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.384,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.384,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.385,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.385,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.386,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.386,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.386,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1102.cif,0,87,76
+11/21/2024,22:03:40.387,1,1101,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1101.cif,0,87,76
+11/21/2024,22:03:40.387,1,1102,88,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1102.cif,0,87,76
+11/21/2024,22:04:12.399,0,0,0,The low frequency delete queue has 26 items,0,0,0
+11/21/2024,22:04:12.399,0,0,0,First item on LFDQ is Del File Spec cycle=86 ext=cif ,0,0,0
+11/21/2024,22:04:44.409,0,0,0,The low frequency delete queue has 26 items,0,0,0
+11/21/2024,22:04:44.409,0,0,0,First item on LFDQ is Del File Spec cycle=86 ext=cif ,0,0,0
+11/21/2024,22:05:16.417,0,0,0,The low frequency delete queue has 26 items,0,0,0
+11/21/2024,22:05:16.417,0,0,0,First item on LFDQ is Del File Spec cycle=86 ext=cif ,0,0,0
+11/21/2024,22:05:29.422,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:05:29.424,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:05:29.426,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:05:29.429,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:05:29.431,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:05:30.433,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:05:33.435,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:05:33.437,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:05:33.439,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:05:33.441,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:05:33.443,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C89.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:05:34.444,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:05:48.449,0,0,0,The low frequency delete queue has 30 items,0,0,0
+11/21/2024,22:05:48.449,0,0,0,First item on LFDQ is Del File Spec cycle=86 ext=cif ,0,0,0
+11/21/2024,22:05:48.449,1,1101,89,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1101.cif,0,88,76
+11/21/2024,22:05:48.450,1,1102,89,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1102.cif,0,88,76
+11/21/2024,22:06:20.460,0,0,0,The low frequency delete queue has 28 items,0,0,0
+11/21/2024,22:06:20.460,0,0,0,First item on LFDQ is Del File Spec cycle=87 ext=cif ,0,0,0
+11/21/2024,22:06:52.474,0,0,0,The low frequency delete queue has 28 items,0,0,0
+11/21/2024,22:06:52.474,0,0,0,First item on LFDQ is Del File Spec cycle=87 ext=cif ,0,0,0
+11/21/2024,22:07:24.487,0,0,0,The low frequency delete queue has 28 items,0,0,0
+11/21/2024,22:07:24.487,0,0,0,First item on LFDQ is Del File Spec cycle=87 ext=cif ,0,0,0
+11/21/2024,22:07:56.499,0,0,0,The low frequency delete queue has 28 items,0,0,0
+11/21/2024,22:07:56.499,0,0,0,First item on LFDQ is Del File Spec cycle=87 ext=cif ,0,0,0
+11/21/2024,22:08:01.502,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:08:01.504,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:08:01.506,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:08:01.508,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:08:01.511,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:08:02.512,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:08:04.514,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:08:04.516,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:08:04.518,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:08:04.520,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:08:04.523,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C90.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:08:05.523,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:08:28.532,0,0,0,The low frequency delete queue has 32 items,0,0,0
+11/21/2024,22:08:28.532,0,0,0,First item on LFDQ is Del File Spec cycle=87 ext=cif ,0,0,0
+11/21/2024,22:08:28.533,1,1101,90,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1101.cif,0,89,76
+11/21/2024,22:08:28.533,1,1102,90,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1102.cif,0,89,76
+11/21/2024,22:09:00.543,0,0,0,The low frequency delete queue has 30 items,0,0,0
+11/21/2024,22:09:00.543,0,0,0,First item on LFDQ is Del File Spec cycle=88 ext=cif ,0,0,0
+11/21/2024,22:09:32.559,0,0,0,The low frequency delete queue has 30 items,0,0,0
+11/21/2024,22:09:32.560,0,0,0,First item on LFDQ is Del File Spec cycle=88 ext=cif ,0,0,0
+11/21/2024,22:10:04.575,0,0,0,The low frequency delete queue has 30 items,0,0,0
+11/21/2024,22:10:04.575,0,0,0,First item on LFDQ is Del File Spec cycle=88 ext=cif ,0,0,0
+11/21/2024,22:10:32.585,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:10:32.587,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:10:32.590,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:10:32.592,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:10:32.594,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:10:33.595,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:10:36.596,0,0,0,The low frequency delete queue has 32 items,0,0,0
+11/21/2024,22:10:36.596,0,0,0,First item on LFDQ is Del File Spec cycle=88 ext=cif ,0,0,0
+11/21/2024,22:10:36.596,1,1101,91,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1101.cif,0,90,76
+11/21/2024,22:10:37.598,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:10:37.600,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:10:37.602,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:10:37.604,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:10:37.607,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C91.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:10:38.607,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:11:08.621,0,0,0,The low frequency delete queue has 33 items,0,0,0
+11/21/2024,22:11:08.622,0,0,0,First item on LFDQ is Del File Spec cycle=88 ext=cif ,0,0,0
+11/21/2024,22:11:08.622,1,1102,91,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1102.cif,0,90,76
+11/21/2024,22:11:40.634,0,0,0,The low frequency delete queue has 32 items,0,0,0
+11/21/2024,22:11:40.634,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:12:12.645,0,0,0,The low frequency delete queue has 32 items,0,0,0
+11/21/2024,22:12:12.645,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:12:44.655,0,0,0,The low frequency delete queue has 32 items,0,0,0
+11/21/2024,22:12:44.655,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:13:05.667,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:13:05.669,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:13:05.671,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:13:05.674,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:13:05.676,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:13:06.677,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:13:09.678,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:13:09.680,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:13:09.682,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:13:09.684,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:13:09.686,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C92.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:13:10.688,0,0,0,Processing 1 items in delete queue,0,0,0
+11/21/2024,22:13:16.691,0,0,0,The low frequency delete queue has 36 items,0,0,0
+11/21/2024,22:13:16.691,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:13:16.691,1,1101,92,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1101.cif,0,91,76
+11/21/2024,22:13:16.692,1,1102,92,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1102.cif,0,91,76
+11/21/2024,22:13:48.707,0,0,0,The low frequency delete queue has 34 items,0,0,0
+11/21/2024,22:13:48.707,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:14:20.717,0,0,0,The low frequency delete queue has 34 items,0,0,0
+11/21/2024,22:14:20.717,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:14:52.726,0,0,0,The low frequency delete queue has 34 items,0,0,0
+11/21/2024,22:14:52.726,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:15:24.736,0,0,0,The low frequency delete queue has 34 items,0,0,0
+11/21/2024,22:15:24.736,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:15:37.741,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:15:37.743,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1101_a.tif,0,0,0
+11/21/2024,22:15:37.745,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1101_c.tif,0,0,0
+11/21/2024,22:15:37.748,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1101_g.tif,0,0,0
+11/21/2024,22:15:37.750,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1101_t.tif,0,0,0
+11/21/2024,22:15:38.751,0,0,0,Processing 3 items in delete queue,0,0,0
+11/21/2024,22:15:38.751,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:39.753,0,0,0,Processing 4 items in delete queue,0,0,0
+11/21/2024,22:15:39.753,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:39.753,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:39.754,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:39.754,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:40.755,0,0,0,Processing 9 items in delete queue,0,0,0
+11/21/2024,22:15:40.757,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1102_a.tif,0,0,0
+11/21/2024,22:15:40.759,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1102_c.tif,0,0,0
+11/21/2024,22:15:40.761,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1102_g.tif,0,0,0
+11/21/2024,22:15:40.763,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Images\L001\C93.1\s_1_1102_t.tif,0,0,0
+11/21/2024,22:15:40.764,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:40.764,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:40.765,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:40.765,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:41.766,0,0,0,Processing 5 items in delete queue,0,0,0
+11/21/2024,22:15:41.766,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:41.767,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:41.767,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:42.768,0,0,0,Processing 9 items in delete queue,0,0,0
+11/21/2024,22:15:42.768,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:42.769,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C77.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:42.770,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:42.771,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:42.771,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:42.772,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:42.772,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:42.773,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:42.773,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:43.775,0,0,0,Processing 17 items in delete queue,0,0,0
+11/21/2024,22:15:43.775,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1101.bcl.old,0,0,0
+11/21/2024,22:15:43.776,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:43.776,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:43.777,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:44.778,0,0,0,Processing 4 items in delete queue,0,0,0
+11/21/2024,22:15:44.778,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:44.779,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:44.779,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:44.780,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:45.781,0,0,0,Processing 4 items in delete queue,0,0,0
+11/21/2024,22:15:45.781,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:45.782,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:45.782,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:45.783,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:46.783,0,0,0,Processing 22 items in delete queue,0,0,0
+11/21/2024,22:15:46.783,0,0,0,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1102.bcl.old,0,0,0
+11/21/2024,22:15:47.785,0,0,0,The low frequency delete queue has 74 items,0,0,0
+11/21/2024,22:15:47.785,0,0,0,First item on LFDQ is Del File Spec cycle=78 ext=dif ,0,0,0
+11/21/2024,22:15:47.785,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.786,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C78.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.786,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.787,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C79.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.787,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.787,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C80.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.788,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.788,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C81.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.789,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.789,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C82.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.789,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.790,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C83.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.790,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.791,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C84.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.791,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.791,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C85.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.792,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.792,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C86.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.792,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.793,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C87.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.793,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.794,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C88.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.794,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1101.cif,0,93,93
+11/21/2024,22:15:47.794,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.795,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1102.cif,0,93,93
+11/21/2024,22:15:47.795,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C89.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.795,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1101.cif,0,93,93
+11/21/2024,22:15:47.796,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.796,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1102.cif,0,93,93
+11/21/2024,22:15:47.796,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C90.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.797,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1101.cif,0,93,93
+11/21/2024,22:15:47.797,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.798,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1102.cif,0,93,93
+11/21/2024,22:15:47.798,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C91.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.798,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1101.cif,0,93,93
+11/21/2024,22:15:47.799,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.799,1,1101,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1101.dif,0,93,93
+11/21/2024,22:15:47.799,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1102.cif,0,93,93
+11/21/2024,22:15:47.800,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C92.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.800,1,1102,93,Removing file D:\Illumina\MiSeqTemp\241121_M02607_0396_000000000-DR6DN\Processed\L001\C93.1\s_1_1102.dif,0,93,93
+11/21/2024,22:15:47.800,0,0,0,Exiting delete thread and dropping 34 items in LFDQ queue,0,0,0
+11/21/2024,22:15:47.800,0,0,0,Completed delete for read 2,0,0,0

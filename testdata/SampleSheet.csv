@@ -1,0 +1,26 @@
+[Header]
+Local Run Manager Analysis Id,60060
+Experiment Name,ClaretLabRun449_NanoV2
+Date,11/21/2024
+Module,GenerateFASTQ - 3.0.1
+Workflow,GenerateFASTQ
+Library Prep Kit,Custom
+Index Kit,Custom
+Chemistry,Amplicon
+iemfileversion,5
+investigator name,AAM
+application,FASTQ Only
+instrument type,MiSeq
+index adapters,TruSeq HT
+
+[Reads]
+76
+76
+
+[Settings]
+reversecomplement,0
+
+[Data]
+Sample_ID,Sample_Name,Description,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Sample_Plate,Sample_Well
+SR5307,KIT-UMI-1_rc_claret,SR5307,CCGCGGTTNNNNNNNNN,CCGCGGTTNNNNNNNNN,AGCGCTAG,AGCGCTAG,,,
+SR5308,KIT-UMI-2_rc_claret,SR5308,TTATAACCNNNNNNNNN,TTATAACCNNNNNNNNN,GATATCGA,GATATCGA,,,
